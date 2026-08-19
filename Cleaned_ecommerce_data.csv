@@ -1,0 +1,996 @@
+Order_ID,Order_Date,Customer,State,Category,Product,Quantity,Unit_Price,Discount_Percent,Sales,Profit,Payment_Method
+ORD10952,2025-01-01,Customer_107,Kerala,Home & Kitchen,Bottle,2,794,0,1588.0,160.11,Debit Card
+ORD10627,2025-01-01,Customer_116,Karnataka,Electronics,Headphones,2,3130,10,5634.0,791.15,Net Banking
+ORD10013,2025-01-01,Customer_137,Tamil Nadu,Clothing,Jacket,2,4011,0,8022.0,1778.63,Net Banking
+ORD10946,2025-01-02,Customer_153,Tamil Nadu,Clothing,Backpack,1,2070,5,1966.5,177.45,Debit Card
+ORD10900,2025-01-02,Customer_196,Telangana,Clothing,Jacket,4,4300,10,15480.0,1738.08,UPI
+ORD10219,2025-01-02,Customer_072,Kerala,Home & Kitchen,Bottle,1,642,0,642.0,62.58,Debit Card
+ORD10783,2025-01-03,Customer_054,Karnataka,Home & Kitchen,Mixer,2,5673,10,10211.4,1703.23,Credit Card
+ORD10388,2025-01-04,Customer_001,Karnataka,Clothing,T-Shirt,2,1564,5,2971.6,248.3,UPI
+ORD10610,2025-01-04,Customer_067,Tamil Nadu,Home & Kitchen,Cookware Set,5,4836,5,22971.0,4540.19,Credit Card
+ORD10666,2025-01-04,Customer_115,Delhi,Electronics,Keyboard,2,2387,20,3819.2,364.89,Net Banking
+ORD10306,2025-01-05,Customer_166,Delhi,Electronics,Laptop,2,58654,10,105577.2,21227.7,Net Banking
+ORD10895,2025-01-06,Customer_077,Maharashtra,Home & Kitchen,Cookware Set,4,3969,15,13494.6,1333.3,Credit Card
+ORD10466,2025-01-07,Customer_184,Telangana,Clothing,Jeans,3,1564,10,4222.8,427.09,Debit Card
+ORD10941,2025-01-07,Customer_023,Tamil Nadu,Home & Kitchen,Dinner Set,2,1618,5,3074.2,719.06,Net Banking
+ORD10226,2025-01-08,Customer_150,Kerala,Furniture,Bookshelf,1,9748,0,9748.0,1764.59,Credit Card
+ORD10018,2025-01-10,Customer_009,Karnataka,Home & Kitchen,Cookware Set,3,5025,5,14321.25,1403.46,UPI
+ORD10816,2025-01-10,Customer_087,Andhra Pradesh,Electronics,Monitor,5,24493,0,122465.0,19392.67,Cash
+ORD10341,2025-01-11,Customer_046,Delhi,Clothing,Shoes,2,6158,5,11700.2,2086.66,UPI
+ORD10211,2025-01-12,Customer_134,Maharashtra,Clothing,Backpack,5,2728,0,13640.0,1184.27,Net Banking
+ORD10038,2025-01-13,Customer_014,Tamil Nadu,Electronics,Laptop,4,70188,0,280752.0,64755.7,Net Banking
+ORD10707,2025-01-13,Customer_098,Kerala,Home & Kitchen,Mixer,3,4724,5,13463.4,3105.32,UPI
+ORD10566,2025-01-14,Customer_191,Telangana,Furniture,Desk,5,24108,0,120540.0,23381.61,Cash
+ORD10874,2025-01-14,Customer_139,Kerala,Electronics,Mobile,4,25379,0,101516.0,14075.48,Net Banking
+ORD10075,2025-01-14,Customer_185,Maharashtra,Electronics,Laptop,2,57763,10,103973.4,15391.82,Net Banking
+ORD10195,2025-01-14,Customer_107,Karnataka,Clothing,Jeans,1,2285,20,1828.0,236.19,Debit Card
+ORD10322,2025-01-16,Customer_087,Maharashtra,Electronics,Laptop,4,58395,10,210222.0,28072.23,Credit Card
+ORD10756,2025-01-16,Customer_116,Maharashtra,Furniture,Sofa,2,45154,0,90308.0,21183.81,Debit Card
+ORD10923,2025-01-16,Customer_089,Delhi,Electronics,Monitor,5,21867,0,109335.0,15170.07,Debit Card
+ORD10549,2025-01-17,Customer_116,Kerala,Furniture,Table,4,13094,20,41900.8,9350.92,Net Banking
+ORD10639,2025-01-17,Customer_101,Andhra Pradesh,Furniture,Office Chair,5,17737,5,84250.75,17371.34,Credit Card
+ORD10160,2025-01-18,Customer_072,Kerala,Home & Kitchen,Cookware Set,3,2949,15,7519.95,1063.19,Cash
+ORD10259,2025-01-18,Customer_192,Delhi,Home & Kitchen,Cookware Set,2,2955,5,5614.5,1082.76,Net Banking
+ORD10169,2025-01-19,Customer_170,Andhra Pradesh,Clothing,Shoes,2,6382,0,12764.0,1584.92,Credit Card
+ORD10210,2025-01-19,Customer_113,Tamil Nadu,Electronics,Laptop,3,47044,10,127018.8,27832.95,Net Banking
+ORD10519,2025-01-19,Customer_198,Tamil Nadu,Home & Kitchen,Air Fryer,5,7732,10,34794.0,6725.98,Debit Card
+ORD10463,2025-01-19,Customer_019,Maharashtra,Furniture,Sofa,1,17352,5,16484.4,3514.31,UPI
+ORD10552,2025-01-19,Customer_146,Kerala,Home & Kitchen,Air Fryer,1,7119,0,7119.0,775.12,Cash
+ORD10235,2025-01-20,Customer_151,Maharashtra,Home & Kitchen,Cookware Set,5,2978,15,12656.5,1514.56,Cash
+ORD10975,2025-01-21,Customer_033,Telangana,Home & Kitchen,Mixer,3,5160,5,14706.0,1898.91,Cash
+ORD10792,2025-01-21,Customer_183,Delhi,Home & Kitchen,Cookware Set,5,4161,0,20805.0,4323.49,Credit Card
+ORD10514,2025-01-25,Customer_092,Maharashtra,Furniture,Sofa,5,41421,10,186394.5,16799.7,Credit Card
+ORD10266,2025-01-25,Customer_067,Andhra Pradesh,Furniture,Bookshelf,4,7697,10,27709.2,2543.62,Credit Card
+ORD10342,2025-01-26,Customer_158,Telangana,Home & Kitchen,Bottle,3,1441,15,3674.55,727.13,UPI
+ORD10830,2025-01-26,Customer_139,Telangana,Home & Kitchen,Bottle,4,922,0,3688.0,324.63,UPI
+ORD10592,2025-01-27,Customer_090,Tamil Nadu,Home & Kitchen,Bottle,1,1388,20,1110.4,276.19,Net Banking
+ORD10404,2025-01-28,Customer_185,Andhra Pradesh,Electronics,Monitor,2,12267,5,23307.3,3361.67,Credit Card
+ORD10950,2025-01-28,Customer_031,Andhra Pradesh,Electronics,Mobile,2,20199,5,38378.1,4142.1,Net Banking
+ORD10785,2025-01-29,Customer_107,Delhi,Furniture,Sofa,5,23016,0,115080.0,15311.5,Debit Card
+ORD10487,2025-01-30,Customer_088,Tamil Nadu,Clothing,Jeans,1,2827,0,2827.0,535.64,Net Banking
+ORD10859,2025-01-31,Customer_085,Karnataka,Furniture,Office Chair,3,16594,15,42314.7,6422.22,UPI
+ORD10010,2025-02-01,Customer_069,Delhi,Furniture,Bookshelf,1,11087,0,11087.0,1555.43,Credit Card
+ORD10027,2025-02-01,Customer_120,Maharashtra,Furniture,Table,2,8135,5,15456.5,3410.34,UPI
+ORD10957,2025-02-05,Customer_043,Telangana,Home & Kitchen,Bottle,2,1053,20,1684.8,189.24,Net Banking
+ORD10453,2025-02-06,Customer_153,Delhi,Furniture,Desk,5,24800,15,105400.0,19105.39,Debit Card
+ORD10600,2025-02-07,Customer_139,Tamil Nadu,Furniture,Desk,2,14068,15,23915.6,2648.69,Debit Card
+ORD10782,2025-02-08,Customer_002,Telangana,Clothing,Jacket,5,5548,10,24966.0,4737.88,Net Banking
+ORD10939,2025-02-08,Customer_140,Karnataka,Furniture,Office Chair,1,16617,0,16617.0,2393.97,Debit Card
+ORD10257,2025-02-08,Customer_070,Tamil Nadu,Clothing,Jeans,3,4000,5,11400.0,1250.47,Cash
+ORD10977,2025-02-08,Customer_042,Karnataka,Home & Kitchen,Air Fryer,5,11618,0,58090.0,8531.36,Credit Card
+ORD10336,2025-02-09,Customer_123,Kerala,Home & Kitchen,Dinner Set,2,2866,0,5732.0,1123.31,Debit Card
+ORD10714,2025-02-09,Customer_185,Kerala,Home & Kitchen,Dinner Set,1,1928,0,1928.0,390.28,UPI
+ORD10051,2025-02-10,Customer_057,Maharashtra,Clothing,Jacket,4,3083,0,12332.0,2732.75,Net Banking
+ORD10886,2025-02-11,Customer_056,Maharashtra,Electronics,Headphones,1,9350,5,8882.5,1803.9,Credit Card
+ORD10372,2025-02-11,Customer_180,Kerala,Home & Kitchen,Dinner Set,5,3467,10,15601.5,3076.35,Cash
+ORD10473,2025-02-11,Customer_161,Andhra Pradesh,Clothing,T-Shirt,3,1877,10,5067.9,850.23,Credit Card
+ORD10546,2025-02-11,Customer_025,Delhi,Home & Kitchen,Mixer,3,6677,15,17026.35,3230.7,Net Banking
+ORD10295,2025-02-11,Customer_095,Andhra Pradesh,Furniture,Office Chair,2,16196,20,25913.6,2665.94,Net Banking
+ORD10012,2025-02-12,Customer_106,Telangana,Clothing,Jeans,1,1675,0,1675.0,248.81,Net Banking
+ORD10804,2025-02-12,Customer_033,Karnataka,Electronics,Laptop,5,64611,10,290749.5,25910.99,Credit Card
+ORD10444,2025-02-13,Customer_060,Kerala,Home & Kitchen,Dinner Set,1,3532,0,3532.0,606.97,UPI
+ORD10649,2025-02-14,Customer_067,Andhra Pradesh,Home & Kitchen,Dinner Set,3,3368,0,10104.0,1856.29,Cash
+ORD10457,2025-02-14,Customer_057,Telangana,Furniture,Table,5,9619,0,48095.0,8643.93,Cash
+ORD10912,2025-02-15,Customer_007,Andhra Pradesh,Electronics,Laptop,2,53811,5,102240.9,16187.26,UPI
+ORD10103,2025-02-15,Customer_058,Tamil Nadu,Furniture,Office Chair,4,13915,20,44528.0,5332.15,UPI
+ORD10794,2025-02-15,Customer_101,Kerala,Home & Kitchen,Air Fryer,2,7851,0,15702.0,3780.69,Credit Card
+ORD10587,2025-02-16,Customer_132,Kerala,Furniture,Desk,5,10208,5,48488.0,11482.63,Net Banking
+ORD10837,2025-02-16,Customer_038,Telangana,Clothing,Jeans,1,3976,0,3976.0,519.69,Net Banking
+ORD10942,2025-02-18,Customer_200,Maharashtra,Electronics,Monitor,5,23122,0,115610.0,18937.23,Net Banking
+ORD10100,2025-02-18,Customer_077,Kerala,Electronics,Mobile,5,44602,5,211859.5,40781.3,UPI
+ORD10742,2025-02-18,Customer_189,Telangana,Furniture,Desk,5,13935,0,69675.0,13530.22,UPI
+ORD10821,2025-02-18,Customer_084,Andhra Pradesh,Clothing,T-Shirt,3,1018,0,3054.0,679.84,Debit Card
+ORD10488,2025-02-18,Customer_085,Karnataka,Home & Kitchen,Mixer,5,3803,15,16162.75,2339.75,Credit Card
+ORD10806,2025-02-20,Customer_032,Tamil Nadu,Home & Kitchen,Dinner Set,4,4758,15,16177.2,2601.79,Net Banking
+ORD10427,2025-02-20,Customer_128,Karnataka,Electronics,Laptop,5,52069,5,247327.75,39859.53,Cash
+ORD10248,2025-02-20,Customer_153,Tamil Nadu,Electronics,Headphones,4,4736,0,18944.0,2584.63,Net Banking
+ORD10166,2025-02-20,Customer_083,Telangana,Electronics,Monitor,1,24432,0,24432.0,4850.19,Cash
+ORD10670,2025-02-21,Customer_082,Maharashtra,Clothing,Backpack,1,3259,0,3259.0,549.58,Cash
+ORD10743,2025-02-21,Customer_199,Tamil Nadu,Furniture,Bookshelf,4,9093,0,36372.0,7419.26,Net Banking
+ORD10472,2025-02-24,Customer_073,Andhra Pradesh,Home & Kitchen,Dinner Set,3,3946,15,10062.3,1498.5,Net Banking
+ORD10530,2025-02-24,Customer_182,Telangana,Furniture,Sofa,2,44535,10,80163.0,11629.51,UPI
+ORD10683,2025-02-25,Customer_057,Tamil Nadu,Clothing,Shoes,5,5949,5,28257.75,3129.08,UPI
+ORD10026,2025-02-25,Customer_134,Tamil Nadu,Furniture,Bookshelf,4,4898,15,16653.2,1776.2,UPI
+ORD10954,2025-02-25,Customer_133,Karnataka,Home & Kitchen,Mixer,1,7658,0,7658.0,773.87,Cash
+ORD10518,2025-02-26,Customer_003,Kerala,Furniture,Desk,4,16485,20,52752.0,6253.82,UPI
+ORD10568,2025-02-26,Customer_031,Karnataka,Home & Kitchen,Bottle,3,779,10,2103.3,315.15,Net Banking
+ORD10304,2025-02-26,Customer_152,Tamil Nadu,Furniture,Office Chair,2,9615,10,17307.0,1732.38,Debit Card
+ORD10255,2025-02-26,Customer_120,Kerala,Electronics,Mobile,4,22332,10,80395.2,12259.28,UPI
+ORD10267,2025-02-26,Customer_139,Karnataka,Home & Kitchen,Air Fryer,5,9926,0,49630.0,4728.7,UPI
+ORD10713,2025-02-26,Customer_026,Tamil Nadu,Electronics,Mobile,4,46716,5,177520.8,44288.14,Debit Card
+ORD10491,2025-02-27,Customer_144,Karnataka,Home & Kitchen,Dinner Set,3,2134,10,5761.8,1344.85,Net Banking
+ORD10888,2025-02-27,Customer_129,Telangana,Furniture,Table,1,15033,0,15033.0,2302.92,Net Banking
+ORD10857,2025-02-27,Customer_149,Delhi,Clothing,Jacket,3,2779,15,7086.45,1284.15,UPI
+ORD10988,2025-02-28,Customer_114,Delhi,Home & Kitchen,Mixer,2,6922,5,13151.8,2275.23,UPI
+ORD10418,2025-02-28,Customer_076,Delhi,Furniture,Table,2,15951,10,28711.8,5516.9,UPI
+ORD10460,2025-03-03,Customer_093,Karnataka,Clothing,Jeans,5,2501,5,11879.75,1913.38,Net Banking
+ORD10396,2025-03-04,Customer_057,Tamil Nadu,Home & Kitchen,Mixer,1,7999,5,7599.05,1584.88,Credit Card
+ORD10784,2025-03-05,Customer_006,Delhi,Home & Kitchen,Cookware Set,4,3315,10,11934.0,1198.08,Net Banking
+ORD10726,2025-03-07,Customer_112,Tamil Nadu,Electronics,Headphones,2,4607,15,7831.9,944.85,Debit Card
+ORD10974,2025-03-07,Customer_091,Kerala,Clothing,Shoes,3,4337,5,12360.45,1585.99,Cash
+ORD10694,2025-03-07,Customer_042,Kerala,Home & Kitchen,Bottle,1,624,0,624.0,68.15,Credit Card
+ORD10795,2025-03-07,Customer_188,Maharashtra,Electronics,Headphones,4,4253,15,14460.2,1926.05,UPI
+ORD10894,2025-03-08,Customer_035,Delhi,Electronics,Mobile,3,23185,15,59121.75,11953.36,Credit Card
+ORD10131,2025-03-09,Customer_011,Telangana,Home & Kitchen,Cookware Set,4,1959,0,7836.0,1359.37,UPI
+ORD10623,2025-03-09,Customer_048,Telangana,Clothing,Shoes,5,3515,0,17575.0,4034.03,UPI
+ORD10967,2025-03-09,Customer_167,Maharashtra,Electronics,Headphones,2,3217,10,5790.6,967.05,Credit Card
+ORD10354,2025-03-09,Customer_094,Kerala,Home & Kitchen,Bottle,2,1404,5,2667.6,598.86,Debit Card
+ORD10406,2025-03-10,Customer_182,Karnataka,Home & Kitchen,Cookware Set,5,4764,10,21438.0,2951.62,UPI
+ORD10174,2025-03-10,Customer_033,Delhi,Home & Kitchen,Air Fryer,3,11079,0,33237.0,4982.95,Cash
+ORD10490,2025-03-10,Customer_091,Delhi,Electronics,Monitor,2,14004,15,23806.8,4330.66,Net Banking
+ORD10727,2025-03-11,Customer_153,Maharashtra,Clothing,Backpack,2,1322,20,2115.2,441.8,Cash
+ORD10254,2025-03-11,Customer_131,Telangana,Electronics,Headphones,3,8616,0,25848.0,4842.2,Net Banking
+ORD10737,2025-03-11,Customer_139,Karnataka,Home & Kitchen,Bottle,5,1323,15,5622.75,1181.88,Debit Card
+ORD10120,2025-03-12,Customer_057,Telangana,Electronics,Monitor,5,18794,10,84573.0,11171.55,UPI
+ORD10376,2025-03-12,Customer_020,Maharashtra,Home & Kitchen,Cookware Set,3,3620,0,10860.0,2526.57,UPI
+ORD10167,2025-03-12,Customer_128,Telangana,Home & Kitchen,Air Fryer,3,6810,5,19408.5,2190.91,Net Banking
+ORD10878,2025-03-14,Customer_177,Maharashtra,Furniture,Desk,3,7072,5,20155.2,2364.97,Net Banking
+ORD10982,2025-03-14,Customer_151,Maharashtra,Home & Kitchen,Bottle,5,1039,15,4415.75,586.2,UPI
+ORD10074,2025-03-14,Customer_131,Maharashtra,Furniture,Bookshelf,4,3587,0,14348.0,3457.13,UPI
+ORD10890,2025-03-14,Customer_118,Kerala,Electronics,Laptop,5,61241,10,275584.5,46052.04,Net Banking
+ORD10659,2025-03-15,Customer_135,Tamil Nadu,Home & Kitchen,Air Fryer,3,4182,10,11291.4,1451.58,Cash
+ORD10024,2025-03-15,Customer_153,Maharashtra,Home & Kitchen,Cookware Set,3,1758,15,4482.9,659.86,Debit Card
+ORD10044,2025-03-15,Customer_102,Telangana,Home & Kitchen,Air Fryer,2,6591,0,13182.0,2740.64,Credit Card
+ORD10371,2025-03-16,Customer_133,Karnataka,Home & Kitchen,Dinner Set,5,2681,0,13405.0,2207.56,Net Banking
+ORD10932,2025-03-16,Customer_028,Telangana,Home & Kitchen,Mixer,3,2856,10,7711.2,933.04,Net Banking
+ORD10582,2025-03-17,Customer_154,Tamil Nadu,Electronics,Monitor,5,24906,15,105850.5,11689.64,UPI
+ORD10818,2025-03-17,Customer_199,Tamil Nadu,Clothing,T-Shirt,2,1164,5,2211.6,488.82,Cash
+ORD10485,2025-03-19,Customer_196,Andhra Pradesh,Electronics,Headphones,3,5931,10,16013.7,1640.93,Cash
+ORD10653,2025-03-19,Customer_066,Karnataka,Clothing,Jacket,5,4628,10,20826.0,3149.87,UPI
+ORD10152,2025-03-19,Customer_073,Karnataka,Clothing,T-Shirt,2,653,0,1306.0,222.14,Net Banking
+ORD10140,2025-03-20,Customer_044,Maharashtra,Electronics,Mobile,5,29761,0,148805.0,14316.73,Debit Card
+ORD10004,2025-03-20,Customer_081,Telangana,Clothing,Backpack,4,2250,10,8100.0,1223.13,Debit Card
+ORD10085,2025-03-20,Customer_179,Telangana,Clothing,Jeans,2,2898,10,5216.4,577.98,Net Banking
+ORD10430,2025-03-21,Customer_188,Karnataka,Home & Kitchen,Mixer,2,2942,15,5001.4,741.45,UPI
+ORD10510,2025-03-21,Customer_148,Karnataka,Furniture,Desk,1,16238,10,14614.2,1716.92,Debit Card
+ORD10557,2025-03-22,Customer_072,Karnataka,Home & Kitchen,Dinner Set,4,1880,0,7520.0,1059.45,Net Banking
+ORD10212,2025-03-22,Customer_046,Kerala,Clothing,Backpack,5,2147,0,10735.0,2482.85,UPI
+ORD10594,2025-03-23,Customer_075,Andhra Pradesh,Home & Kitchen,Mixer,1,2524,0,2524.0,577.07,Credit Card
+ORD10753,2025-03-23,Customer_048,Karnataka,Furniture,Office Chair,4,17936,10,64569.6,8120.11,UPI
+ORD10072,2025-03-23,Customer_114,Karnataka,Furniture,Sofa,3,31087,5,88597.95,17195.61,Cash
+ORD10899,2025-03-23,Customer_087,Kerala,Clothing,T-Shirt,5,776,0,3880.0,345.91,Net Banking
+ORD10865,2025-03-25,Customer_141,Karnataka,Home & Kitchen,Bottle,3,1413,10,3815.1,602.27,Debit Card
+ORD10170,2025-03-25,Customer_157,Delhi,Furniture,Table,4,6990,10,25164.0,5803.69,Debit Card
+ORD10447,2025-03-25,Customer_029,Tamil Nadu,Clothing,T-Shirt,2,669,5,1271.1,297.9,Debit Card
+ORD10706,2025-03-25,Customer_049,Andhra Pradesh,Electronics,Headphones,4,10298,5,39132.4,4153.64,Credit Card
+ORD10486,2025-03-26,Customer_074,Andhra Pradesh,Furniture,Desk,4,15714,0,62856.0,9728.57,Debit Card
+ORD10820,2025-03-26,Customer_054,Delhi,Electronics,Monitor,4,13025,15,44285.0,4336.31,Net Banking
+ORD10205,2025-03-26,Customer_154,Delhi,Home & Kitchen,Air Fryer,3,5299,5,15102.15,2977.31,Net Banking
+ORD10243,2025-03-27,Customer_183,Maharashtra,Home & Kitchen,Mixer,1,4507,0,4507.0,395.04,Net Banking
+ORD10754,2025-03-28,Customer_173,Kerala,Furniture,Office Chair,3,9424,0,28272.0,3216.43,Net Banking
+ORD10139,2025-03-28,Customer_046,Delhi,Clothing,Shoes,3,3954,20,9489.6,2260.12,Debit Card
+ORD10625,2025-03-29,Customer_149,Andhra Pradesh,Electronics,Monitor,2,11092,10,19965.6,4962.66,Cash
+ORD10320,2025-03-29,Customer_137,Kerala,Furniture,Table,2,14651,20,23441.6,2832.94,Net Banking
+ORD10282,2025-03-29,Customer_173,Andhra Pradesh,Home & Kitchen,Dinner Set,5,2574,20,10296.0,1341.47,Credit Card
+ORD10313,2025-03-31,Customer_025,Tamil Nadu,Home & Kitchen,Cookware Set,3,5533,0,16599.0,2924.36,UPI
+ORD10412,2025-03-31,Customer_104,Kerala,Home & Kitchen,Air Fryer,4,6011,5,22841.8,3204.79,Cash
+ORD10019,2025-03-31,Customer_062,Telangana,Home & Kitchen,Air Fryer,3,7339,5,20916.15,2935.22,Debit Card
+ORD10123,2025-03-31,Customer_053,Kerala,Furniture,Table,3,10040,5,28614.0,4223.61,Net Banking
+ORD10844,2025-03-31,Customer_096,Maharashtra,Clothing,Backpack,2,1288,15,2189.6,312.57,Net Banking
+ORD10736,2025-04-01,Customer_124,Maharashtra,Clothing,Jacket,3,4387,5,12502.95,2662.15,Cash
+ORD10763,2025-04-02,Customer_079,Andhra Pradesh,Electronics,Mobile,2,32360,20,51776.0,7457.56,UPI
+ORD10508,2025-04-02,Customer_134,Tamil Nadu,Clothing,Backpack,3,2709,0,8127.0,1397.76,Debit Card
+ORD10092,2025-04-02,Customer_189,Kerala,Home & Kitchen,Mixer,1,4826,20,3860.8,421.06,Cash
+ORD10185,2025-04-03,Customer_106,Karnataka,Electronics,Headphones,4,11461,5,43551.8,5487.94,Credit Card
+ORD10870,2025-04-03,Customer_136,Andhra Pradesh,Furniture,Bookshelf,1,10468,0,10468.0,1898.15,UPI
+ORD10662,2025-04-03,Customer_172,Telangana,Clothing,Jeans,3,2669,15,6805.95,1221.13,Cash
+ORD10065,2025-04-04,Customer_045,Delhi,Clothing,Jeans,4,1464,0,5856.0,739.26,Cash
+ORD10503,2025-04-05,Customer_178,Karnataka,Electronics,Mobile,4,13307,0,53228.0,9972.16,UPI
+ORD10589,2025-04-06,Customer_166,Delhi,Home & Kitchen,Bottle,5,841,5,3994.75,510.14,UPI
+ORD10023,2025-04-07,Customer_114,Karnataka,Furniture,Office Chair,2,16116,5,30620.4,2814.58,Credit Card
+ORD10788,2025-04-07,Customer_002,Andhra Pradesh,Home & Kitchen,Mixer,2,3174,0,6348.0,656.01,Cash
+ORD10365,2025-04-09,Customer_027,Karnataka,Clothing,Shoes,5,5818,10,26181.0,4700.8,Cash
+ORD10989,2025-04-09,Customer_020,Delhi,Furniture,Desk,4,15171,0,60684.0,5756.84,Cash
+ORD10046,2025-04-11,Customer_106,Delhi,Home & Kitchen,Dinner Set,3,2547,10,6876.9,1342.13,Credit Card
+ORD10392,2025-04-11,Customer_147,Kerala,Clothing,Backpack,5,3407,10,15331.5,3056.46,UPI
+ORD10984,2025-04-11,Customer_125,Tamil Nadu,Electronics,Laptop,4,47176,5,179268.8,38613.58,Cash
+ORD10071,2025-04-11,Customer_030,Delhi,Furniture,Office Chair,1,7504,15,6378.4,885.24,Credit Card
+ORD10379,2025-04-11,Customer_148,Tamil Nadu,Furniture,Table,3,15897,15,40537.35,8275.2,Net Banking
+ORD10793,2025-04-12,Customer_200,Andhra Pradesh,Electronics,Keyboard,5,2864,0,14320.0,3122.2,UPI
+ORD10903,2025-04-13,Customer_135,Maharashtra,Furniture,Table,4,6645,15,22593.0,4889.31,Cash
+ORD10934,2025-04-13,Customer_155,Karnataka,Electronics,Mobile,1,42873,5,40729.35,3730.47,Debit Card
+ORD10590,2025-04-13,Customer_023,Andhra Pradesh,Electronics,Monitor,5,19886,0,99430.0,13869.43,Cash
+ORD10017,2025-04-13,Customer_146,Maharashtra,Home & Kitchen,Cookware Set,4,3785,5,14383.0,1774.97,Net Banking
+ORD10910,2025-04-15,Customer_103,Telangana,Furniture,Bookshelf,5,3492,0,17460.0,1426.22,UPI
+ORD10398,2025-04-15,Customer_035,Karnataka,Furniture,Desk,3,16135,10,43564.5,6538.49,UPI
+ORD10377,2025-04-15,Customer_061,Kerala,Home & Kitchen,Mixer,5,6520,0,32600.0,7096.6,UPI
+ORD10204,2025-04-16,Customer_161,Kerala,Electronics,Mobile,4,25615,0,102460.0,24472.94,UPI
+ORD10082,2025-04-17,Customer_174,Kerala,Home & Kitchen,Bottle,2,489,10,880.2,173.37,Cash
+ORD10700,2025-04-17,Customer_118,Delhi,Clothing,T-Shirt,2,636,0,1272.0,104.76,UPI
+ORD10637,2025-04-18,Customer_115,Karnataka,Electronics,Laptop,5,60717,20,242868.0,42975.2,Net Banking
+ORD10316,2025-04-18,Customer_181,Tamil Nadu,Home & Kitchen,Mixer,5,6244,0,31220.0,5410.69,UPI
+ORD10532,2025-04-19,Customer_046,Telangana,Home & Kitchen,Cookware Set,3,3110,0,9330.0,976.9,Credit Card
+ORD10962,2025-04-19,Customer_071,Maharashtra,Electronics,Headphones,5,7217,0,36085.0,4401.77,Debit Card
+ORD10585,2025-04-19,Customer_084,Tamil Nadu,Furniture,Table,5,11537,20,46148.0,7982.58,Net Banking
+ORD10263,2025-04-20,Customer_073,Maharashtra,Electronics,Laptop,5,62543,10,281443.5,50116.59,Credit Card
+ORD10797,2025-04-21,Customer_111,Kerala,Electronics,Mobile,1,36087,5,34282.65,3510.09,Net Banking
+ORD10305,2025-04-22,Customer_066,Karnataka,Furniture,Office Chair,4,13365,0,53460.0,4277.08,UPI
+ORD10955,2025-04-22,Customer_141,Tamil Nadu,Clothing,Shoes,1,5782,20,4625.6,425.51,Debit Card
+ORD10225,2025-04-22,Customer_070,Karnataka,Furniture,Office Chair,5,5526,10,24867.0,4849.12,Credit Card
+ORD10817,2025-04-24,Customer_163,Kerala,Electronics,Keyboard,4,4262,0,17048.0,3765.57,Net Banking
+ORD10440,2025-04-24,Customer_007,Maharashtra,Clothing,Jacket,5,2710,5,12872.5,2937.83,Net Banking
+ORD10036,2025-04-24,Customer_172,Kerala,Electronics,Laptop,2,62071,0,124142.0,30151.62,Net Banking
+ORD10927,2025-04-25,Customer_130,Kerala,Electronics,Keyboard,5,3543,10,15943.5,3494.94,Cash
+ORD10722,2025-04-26,Customer_103,Maharashtra,Clothing,Shoes,1,1734,10,1560.6,161.49,UPI
+ORD10049,2025-04-27,Customer_058,Kerala,Furniture,Desk,3,16102,15,41060.1,9039.8,Net Banking
+ORD10720,2025-04-27,Customer_167,Telangana,Home & Kitchen,Mixer,3,6296,5,17943.6,2216.98,Net Banking
+ORD10908,2025-04-27,Customer_093,Telangana,Clothing,Shoes,3,3257,0,9771.0,2212.6,Debit Card
+ORD10063,2025-04-27,Customer_069,Maharashtra,Electronics,Keyboard,4,1026,0,4104.0,555.21,Net Banking
+ORD10468,2025-04-27,Customer_151,Kerala,Electronics,Laptop,4,66300,0,265200.0,64989.87,Net Banking
+ORD10110,2025-04-28,Customer_162,Maharashtra,Clothing,Backpack,1,955,10,859.5,204.13,UPI
+ORD10545,2025-04-28,Customer_091,Delhi,Electronics,Headphones,1,4802,15,4081.7,702.12,Cash
+ORD10646,2025-04-29,Customer_043,Maharashtra,Electronics,Mobile,1,48469,15,41198.65,7269.77,Cash
+ORD10197,2025-04-29,Customer_097,Delhi,Furniture,Sofa,3,24885,5,70922.25,13141.63,Net Banking
+ORD10252,2025-04-30,Customer_034,Telangana,Electronics,Mobile,1,31835,0,31835.0,3946.28,Cash
+ORD10056,2025-04-30,Customer_052,Kerala,Home & Kitchen,Air Fryer,5,7711,0,38555.0,9082.03,UPI
+ORD10711,2025-04-30,Customer_063,Maharashtra,Clothing,Jeans,2,3195,5,6070.5,1186.43,Credit Card
+ORD10128,2025-05-01,Customer_049,Delhi,Electronics,Monitor,1,20565,5,19536.75,2464.63,UPI
+ORD10207,2025-05-01,Customer_193,Andhra Pradesh,Home & Kitchen,Dinner Set,4,2986,0,11944.0,2084.85,Credit Card
+ORD10638,2025-05-02,Customer_163,Telangana,Clothing,Jeans,3,3569,5,10171.65,1177.05,Cash
+ORD10799,2025-05-03,Customer_127,Karnataka,Electronics,Keyboard,4,1539,0,6156.0,1268.97,Credit Card
+ORD10994,2025-05-03,Customer_136,Maharashtra,Home & Kitchen,Mixer,3,6196,5,17658.6,4281.51,UPI
+ORD10833,2025-05-03,Customer_039,Tamil Nadu,Clothing,Backpack,1,3007,5,2856.65,535.15,UPI
+ORD10163,2025-05-03,Customer_026,Kerala,Home & Kitchen,Dinner Set,3,3331,0,9993.0,895.73,Credit Card
+ORD10893,2025-05-05,Customer_012,Andhra Pradesh,Electronics,Mobile,4,46464,5,176563.2,32774.76,Cash
+ORD10021,2025-05-06,Customer_029,Telangana,Furniture,Table,4,6822,10,24559.2,4786.34,Credit Card
+ORD10808,2025-05-06,Customer_017,Delhi,Electronics,Monitor,2,19343,0,38686.0,5616.34,Credit Card
+ORD10509,2025-05-07,Customer_027,Andhra Pradesh,Home & Kitchen,Mixer,1,6230,0,6230.0,1139.25,UPI
+ORD10481,2025-05-08,Customer_101,Kerala,Home & Kitchen,Air Fryer,2,5556,5,10556.4,2607.73,Credit Card
+ORD10769,2025-05-08,Customer_068,Karnataka,Home & Kitchen,Dinner Set,2,3535,0,7070.0,946.53,Debit Card
+ORD10107,2025-05-09,Customer_056,Karnataka,Furniture,Desk,2,10578,5,20098.2,2070.68,UPI
+ORD10891,2025-05-09,Customer_132,Telangana,Clothing,Jacket,4,3852,10,13867.2,1931.72,Debit Card
+ORD10238,2025-05-09,Customer_104,Tamil Nadu,Furniture,Sofa,5,36909,10,166090.5,19462.71,Net Banking
+ORD10001,2025-05-10,Customer_012,Karnataka,Clothing,T-Shirt,2,1100,0,2200.0,386.26,UPI
+ORD10146,2025-05-10,Customer_124,Andhra Pradesh,Clothing,T-Shirt,4,1201,5,4563.8,948.9,Cash
+ORD10058,2025-05-10,Customer_008,Delhi,Electronics,Headphones,4,9004,5,34215.2,7647.65,UPI
+ORD10034,2025-05-10,Customer_185,Maharashtra,Furniture,Office Chair,5,5612,0,28060.0,4641.48,Debit Card
+ORD10096,2025-05-11,Customer_031,Karnataka,Furniture,Office Chair,2,11980,0,23960.0,2259.47,UPI
+ORD10208,2025-05-12,Customer_166,Andhra Pradesh,Home & Kitchen,Dinner Set,1,4755,10,4279.5,909.47,UPI
+ORD10416,2025-05-12,Customer_016,Delhi,Electronics,Laptop,2,53767,5,102157.3,15376.75,Debit Card
+ORD10078,2025-05-12,Customer_154,Delhi,Home & Kitchen,Dinner Set,4,4348,5,16522.4,4103.45,Cash
+ORD10746,2025-05-13,Customer_106,Andhra Pradesh,Furniture,Desk,2,15083,5,28657.7,4750.23,UPI
+ORD10631,2025-05-13,Customer_069,Karnataka,Electronics,Laptop,3,60271,5,171772.35,24190.34,UPI
+ORD10117,2025-05-14,Customer_141,Andhra Pradesh,Electronics,Keyboard,1,4630,20,3704.0,663.58,Debit Card
+ORD10156,2025-05-14,Customer_019,Delhi,Furniture,Office Chair,4,9088,0,36352.0,7605.83,Cash
+ORD10237,2025-05-15,Customer_199,Tamil Nadu,Furniture,Bookshelf,3,3771,5,10747.35,2224.74,Net Banking
+ORD10628,2025-05-15,Customer_050,Tamil Nadu,Furniture,Office Chair,4,10242,15,34822.8,6747.52,UPI
+ORD10667,2025-05-18,Customer_088,Tamil Nadu,Furniture,Table,4,12851,15,43693.4,8142.96,UPI
+ORD10288,2025-05-19,Customer_139,Delhi,Electronics,Headphones,4,11366,0,45464.0,8223.91,Debit Card
+ORD10301,2025-05-20,Customer_160,Kerala,Electronics,Headphones,5,7048,10,31716.0,4704.9,UPI
+ORD10136,2025-05-20,Customer_100,Telangana,Electronics,Laptop,4,66125,10,238050.0,28121.84,Cash
+ORD10630,2025-05-20,Customer_141,Andhra Pradesh,Clothing,T-Shirt,4,1589,20,5084.8,768.45,Debit Card
+ORD10997,2025-05-20,Customer_181,Telangana,Electronics,Mobile,2,32313,5,61394.7,5361.42,Credit Card
+ORD10688,2025-05-21,Customer_151,Kerala,Electronics,Monitor,5,20989,0,104945.0,18299.55,Credit Card
+ORD10176,2025-05-23,Customer_111,Telangana,Furniture,Table,1,4285,10,3856.5,749.34,UPI
+ORD10340,2025-05-23,Customer_194,Tamil Nadu,Home & Kitchen,Dinner Set,1,1209,5,1148.55,116.94,Net Banking
+ORD10351,2025-05-24,Customer_159,Maharashtra,Home & Kitchen,Air Fryer,2,7421,15,12615.7,1619.5,Net Banking
+ORD10112,2025-05-24,Customer_071,Tamil Nadu,Clothing,Jacket,4,3758,0,15032.0,1331.92,Cash
+ORD10489,2025-05-25,Customer_011,Maharashtra,Electronics,Headphones,3,7626,10,20590.2,1838.21,UPI
+ORD10452,2025-05-25,Customer_033,Andhra Pradesh,Furniture,Office Chair,2,11344,5,21553.6,3310.01,Cash
+ORD10567,2025-05-26,Customer_011,Telangana,Furniture,Desk,3,7137,5,20340.45,3846.57,Debit Card
+ORD10591,2025-05-26,Customer_059,Karnataka,Electronics,Monitor,4,21866,5,83090.8,17699.37,Net Banking
+ORD10778,2025-05-27,Customer_003,Andhra Pradesh,Home & Kitchen,Air Fryer,4,10708,0,42832.0,10307.7,Debit Card
+ORD10496,2025-05-27,Customer_007,Telangana,Clothing,Jeans,2,2437,10,4386.6,962.78,Debit Card
+ORD10118,2025-05-28,Customer_003,Tamil Nadu,Furniture,Sofa,4,40215,15,136731.0,11201.2,Credit Card
+ORD10841,2025-05-29,Customer_092,Delhi,Clothing,Jeans,4,1815,5,6897.0,564.32,UPI
+ORD10189,2025-05-29,Customer_026,Kerala,Clothing,Jeans,2,2187,0,4374.0,1084.89,Credit Card
+ORD10618,2025-05-30,Customer_025,Telangana,Home & Kitchen,Air Fryer,1,7426,0,7426.0,1446.79,Cash
+ORD10415,2025-05-30,Customer_178,Kerala,Clothing,Jacket,3,4728,5,13474.8,3101.31,Credit Card
+ORD10323,2025-05-31,Customer_149,Kerala,Home & Kitchen,Dinner Set,4,2136,5,8116.8,782.7,UPI
+ORD10449,2025-05-31,Customer_014,Karnataka,Clothing,Jeans,5,3893,0,19465.0,2537.76,Net Banking
+ORD10676,2025-06-01,Customer_168,Maharashtra,Electronics,Headphones,4,2228,0,8912.0,2062.34,Net Banking
+ORD10068,2025-06-01,Customer_033,Telangana,Electronics,Monitor,4,9645,0,38580.0,9420.35,Cash
+ORD10528,2025-06-02,Customer_121,Kerala,Furniture,Office Chair,5,5882,15,24998.5,4174.51,Credit Card
+ORD10776,2025-06-03,Customer_030,Delhi,Electronics,Laptop,5,55293,0,276465.0,29011.73,UPI
+ORD10003,2025-06-03,Customer_133,Telangana,Electronics,Laptop,2,58489,5,111129.1,10183.49,UPI
+ORD10091,2025-06-03,Customer_130,Tamil Nadu,Home & Kitchen,Mixer,5,3598,5,17090.5,1832.76,Debit Card
+ORD10090,2025-06-03,Customer_137,Maharashtra,Furniture,Sofa,2,20433,10,36779.4,5550.85,UPI
+ORD10187,2025-06-03,Customer_197,Delhi,Furniture,Office Chair,2,10827,0,21654.0,5386.19,UPI
+ORD10843,2025-06-04,Customer_034,Maharashtra,Electronics,Mobile,1,40572,0,40572.0,9975.94,Debit Card
+ORD10171,2025-06-04,Customer_167,Kerala,Home & Kitchen,Cookware Set,5,5993,5,28466.75,6611.89,Net Banking
+ORD10086,2025-06-04,Customer_141,Karnataka,Clothing,Jeans,5,2915,0,14575.0,2709.03,UPI
+ORD10515,2025-06-05,Customer_181,Delhi,Furniture,Desk,2,7708,0,15416.0,2817.14,Credit Card
+ORD10077,2025-06-06,Customer_137,Maharashtra,Home & Kitchen,Dinner Set,2,1985,0,3970.0,497.08,Debit Card
+ORD10115,2025-06-06,Customer_055,Karnataka,Clothing,T-Shirt,5,623,0,3115.0,457.26,Credit Card
+ORD10609,2025-06-07,Customer_108,Telangana,Home & Kitchen,Air Fryer,4,7606,0,30424.0,2742.27,UPI
+ORD10619,2025-06-08,Customer_021,Andhra Pradesh,Clothing,Jeans,1,2109,10,1898.1,279.63,Net Banking
+ORD10873,2025-06-08,Customer_195,Delhi,Furniture,Office Chair,5,13652,0,68260.0,16144.69,Net Banking
+ORD10293,2025-06-10,Customer_143,Telangana,Electronics,Mobile,5,20210,0,101050.0,17645.18,Credit Card
+ORD10126,2025-06-10,Customer_188,Kerala,Home & Kitchen,Cookware Set,2,2836,10,5104.8,647.24,UPI
+ORD10723,2025-06-11,Customer_053,Karnataka,Home & Kitchen,Air Fryer,4,11180,15,38012.0,8592.57,UPI
+ORD10597,2025-06-11,Customer_123,Delhi,Electronics,Monitor,5,29620,20,118480.0,17521.6,Credit Card
+ORD10758,2025-06-12,Customer_108,Kerala,Clothing,T-Shirt,1,1623,0,1623.0,337.13,Cash
+ORD10796,2025-06-13,Customer_097,Tamil Nadu,Clothing,Jeans,4,2083,5,7915.4,1788.45,Debit Card
+ORD10292,2025-06-13,Customer_163,Maharashtra,Clothing,Jacket,5,5491,5,26082.25,5035.43,Credit Card
+ORD10451,2025-06-14,Customer_177,Telangana,Furniture,Sofa,4,21139,0,84556.0,8941.44,Credit Card
+ORD10747,2025-06-15,Customer_147,Delhi,Clothing,T-Shirt,2,1978,5,3758.2,500.11,Debit Card
+ORD10738,2025-06-15,Customer_104,Karnataka,Electronics,Headphones,5,6672,5,31692.0,6261.75,Debit Card
+ORD10050,2025-06-15,Customer_112,Andhra Pradesh,Furniture,Desk,3,23053,5,65701.05,6891.66,UPI
+ORD10611,2025-06-16,Customer_181,Kerala,Electronics,Laptop,2,66281,10,119305.8,12383.69,Debit Card
+ORD10408,2025-06-16,Customer_124,Karnataka,Home & Kitchen,Cookware Set,3,4719,0,14157.0,1522.26,Cash
+ORD10066,2025-06-17,Customer_137,Kerala,Furniture,Desk,4,15587,10,56113.2,4549.91,Cash
+ORD10426,2025-06-17,Customer_137,Karnataka,Electronics,Headphones,5,7980,10,35910.0,3797.25,Debit Card
+ORD10680,2025-06-17,Customer_018,Tamil Nadu,Furniture,Office Chair,2,17237,20,27579.2,5722.03,UPI
+ORD10332,2025-06-18,Customer_028,Telangana,Electronics,Mobile,1,48636,15,41340.6,5604.96,Cash
+ORD10200,2025-06-18,Customer_030,Tamil Nadu,Clothing,T-Shirt,2,993,5,1886.7,256.87,Net Banking
+ORD10007,2025-06-18,Customer_074,Tamil Nadu,Electronics,Keyboard,5,3351,15,14241.75,3411.5,UPI
+ORD10411,2025-06-19,Customer_069,Kerala,Clothing,Jacket,3,2713,0,8139.0,1276.16,UPI
+ORD10696,2025-06-20,Customer_123,Karnataka,Home & Kitchen,Mixer,1,7776,0,7776.0,904.96,Debit Card
+ORD10495,2025-06-20,Customer_080,Kerala,Electronics,Keyboard,4,2951,5,11213.8,989.3,Net Banking
+ORD10716,2025-06-22,Customer_007,Tamil Nadu,Home & Kitchen,Mixer,5,4510,0,22550.0,5176.53,UPI
+ORD10846,2025-06-23,Customer_127,Andhra Pradesh,Electronics,Keyboard,1,3457,10,3111.3,430.9,Credit Card
+ORD10986,2025-06-25,Customer_064,Maharashtra,Furniture,Desk,5,14792,15,62866.0,11928.25,Credit Card
+ORD10047,2025-06-25,Customer_186,Tamil Nadu,Home & Kitchen,Dinner Set,5,2930,10,13185.0,2015.17,Credit Card
+ORD10945,2025-06-25,Customer_091,Delhi,Electronics,Monitor,1,26313,0,26313.0,6369.81,Net Banking
+ORD10287,2025-06-26,Customer_100,Karnataka,Electronics,Monitor,1,26740,5,25403.0,4768.93,UPI
+ORD10099,2025-06-26,Customer_096,Kerala,Furniture,Sofa,5,26101,0,130505.0,10808.52,Net Banking
+ORD10936,2025-06-27,Customer_033,Maharashtra,Electronics,Monitor,4,9882,0,39528.0,6895.4,Cash
+ORD10632,2025-06-27,Customer_004,Maharashtra,Home & Kitchen,Bottle,2,674,5,1280.6,231.72,UPI
+ORD10334,2025-06-27,Customer_017,Telangana,Clothing,Backpack,1,1001,0,1001.0,148.61,Debit Card
+ORD10606,2025-06-28,Customer_137,Delhi,Clothing,T-Shirt,3,693,10,1871.1,414.53,Debit Card
+ORD10781,2025-06-28,Customer_176,Maharashtra,Electronics,Laptop,3,73172,15,186588.6,30805.49,UPI
+ORD10651,2025-06-28,Customer_100,Karnataka,Clothing,Backpack,5,2493,15,10595.25,1087.51,Net Banking
+ORD10268,2025-06-29,Customer_121,Andhra Pradesh,Home & Kitchen,Mixer,5,2840,0,14200.0,2586.6,UPI
+ORD10162,2025-06-29,Customer_040,Telangana,Electronics,Mobile,5,36264,10,163188.0,31911.17,UPI
+ORD10264,2025-06-29,Customer_116,Andhra Pradesh,Electronics,Laptop,2,74075,10,133335.0,23449.14,UPI
+ORD10015,2025-06-29,Customer_161,Karnataka,Home & Kitchen,Mixer,2,7500,0,15000.0,2760.17,Net Banking
+ORD10693,2025-06-29,Customer_093,Maharashtra,Electronics,Monitor,2,11437,0,22874.0,2171.29,UPI
+ORD10764,2025-06-30,Customer_080,Karnataka,Furniture,Desk,1,24135,5,22928.25,3156.55,Credit Card
+ORD10969,2025-06-30,Customer_119,Tamil Nadu,Furniture,Desk,5,24753,5,117576.75,28090.88,Net Banking
+ORD10965,2025-06-30,Customer_062,Tamil Nadu,Clothing,Backpack,2,3018,5,5734.2,1291.17,Debit Card
+ORD10374,2025-06-30,Customer_085,Andhra Pradesh,Home & Kitchen,Mixer,1,6000,5,5700.0,754.23,UPI
+ORD10384,2025-07-01,Customer_026,Telangana,Electronics,Headphones,3,3242,5,9239.7,1841.43,UPI
+ORD10309,2025-07-01,Customer_026,Karnataka,Home & Kitchen,Air Fryer,5,10574,10,47583.0,3910.97,Net Banking
+ORD10780,2025-07-01,Customer_105,Maharashtra,Clothing,Backpack,3,2900,0,8700.0,1186.46,Cash
+ORD10148,2025-07-02,Customer_008,Delhi,Clothing,T-Shirt,4,1095,0,4380.0,717.14,UPI
+ORD10721,2025-07-03,Customer_190,Telangana,Furniture,Sofa,3,27180,10,73386.0,8623.64,UPI
+ORD10533,2025-07-03,Customer_122,Tamil Nadu,Electronics,Headphones,3,9125,10,24637.5,4089.05,UPI
+ORD10290,2025-07-05,Customer_174,Telangana,Home & Kitchen,Dinner Set,3,4628,10,12495.6,2547.76,Debit Card
+ORD10772,2025-07-06,Customer_123,Maharashtra,Electronics,Keyboard,4,2348,10,8452.8,1110.86,UPI
+ORD10031,2025-07-06,Customer_093,Maharashtra,Electronics,Monitor,4,28584,0,114336.0,26238.53,Debit Card
+ORD10980,2025-07-07,Customer_155,Maharashtra,Furniture,Sofa,4,16196,5,61544.8,12155.83,UPI
+ORD10953,2025-07-07,Customer_054,Delhi,Electronics,Laptop,3,68360,5,194826.0,36614.46,Credit Card
+ORD10812,2025-07-07,Customer_042,Karnataka,Clothing,Jacket,4,5666,10,20397.6,2287.86,Debit Card
+ORD10325,2025-07-07,Customer_149,Kerala,Furniture,Bookshelf,4,3331,0,13324.0,3302.32,Cash
+ORD10814,2025-07-08,Customer_137,Tamil Nadu,Home & Kitchen,Dinner Set,1,3222,5,3060.9,510.83,UPI
+ORD10352,2025-07-08,Customer_161,Telangana,Electronics,Monitor,3,15439,0,46317.0,7193.76,Net Banking
+ORD10106,2025-07-08,Customer_074,Delhi,Furniture,Table,4,5089,10,18320.4,4501.27,Credit Card
+ORD10766,2025-07-08,Customer_104,Karnataka,Clothing,Jacket,1,2739,5,2602.05,423.22,Debit Card
+ORD10025,2025-07-10,Customer_143,Maharashtra,Home & Kitchen,Mixer,1,2782,20,2225.6,246.82,Credit Card
+ORD10157,2025-07-11,Customer_005,Tamil Nadu,Clothing,Jacket,2,5978,10,10760.4,1142.36,Net Banking
+ORD10177,2025-07-11,Customer_016,Karnataka,Clothing,Shoes,2,1764,0,3528.0,777.68,Credit Card
+ORD10521,2025-07-12,Customer_055,Karnataka,Home & Kitchen,Cookware Set,4,3010,0,12040.0,1867.55,Net Banking
+ORD10484,2025-07-12,Customer_153,Kerala,Furniture,Table,2,4358,10,7844.4,1001.39,Cash
+ORD10289,2025-07-13,Customer_058,Delhi,Electronics,Headphones,3,4629,10,12498.3,1034.38,Net Banking
+ORD10616,2025-07-13,Customer_075,Delhi,Clothing,Shoes,1,2881,10,2592.9,646.69,Debit Card
+ORD10562,2025-07-15,Customer_158,Tamil Nadu,Clothing,T-Shirt,4,1846,0,7384.0,1070.41,Cash
+ORD10564,2025-07-15,Customer_092,Maharashtra,Clothing,Backpack,5,1836,5,8721.0,811.48,Cash
+ORD10640,2025-07-15,Customer_149,Telangana,Home & Kitchen,Bottle,4,1336,5,5076.8,427.89,Credit Card
+ORD10366,2025-07-16,Customer_002,Maharashtra,Clothing,Jacket,3,3231,0,9693.0,1672.42,Credit Card
+ORD10209,2025-07-16,Customer_130,Karnataka,Furniture,Office Chair,1,12156,20,9724.8,804.77,Debit Card
+ORD10535,2025-07-17,Customer_059,Maharashtra,Clothing,Jeans,3,1598,5,4554.3,419.43,Net Banking
+ORD10419,2025-07-18,Customer_109,Andhra Pradesh,Home & Kitchen,Mixer,1,6199,0,6199.0,961.75,Credit Card
+ORD10037,2025-07-18,Customer_075,Karnataka,Home & Kitchen,Air Fryer,3,7690,0,23070.0,2710.17,Debit Card
+ORD10849,2025-07-18,Customer_175,Karnataka,Clothing,Jacket,2,3041,0,6082.0,1396.34,Debit Card
+ORD10125,2025-07-18,Customer_043,Andhra Pradesh,Electronics,Headphones,5,6925,0,34625.0,5973.29,Net Banking
+ORD10378,2025-07-19,Customer_038,Karnataka,Electronics,Monitor,2,19213,0,38426.0,6883.33,Credit Card
+ORD10604,2025-07-19,Customer_142,Maharashtra,Furniture,Office Chair,4,13448,5,51102.4,7737.0,Net Banking
+ORD10852,2025-07-19,Customer_118,Tamil Nadu,Furniture,Office Chair,5,13584,20,54336.0,5625.04,Net Banking
+ORD10114,2025-07-19,Customer_118,Delhi,Furniture,Bookshelf,3,9344,0,28032.0,4977.68,Debit Card
+ORD10539,2025-07-20,Customer_142,Kerala,Electronics,Headphones,2,3808,15,6473.6,1131.83,Cash
+ORD10790,2025-07-22,Customer_002,Tamil Nadu,Clothing,Jacket,2,2186,20,3497.6,475.32,Net Banking
+ORD10321,2025-07-23,Customer_038,Tamil Nadu,Home & Kitchen,Mixer,4,3435,0,13740.0,1321.02,Cash
+ORD10901,2025-07-23,Customer_052,Maharashtra,Electronics,Headphones,1,8557,5,8129.15,704.17,Debit Card
+ORD10561,2025-07-23,Customer_086,Andhra Pradesh,Home & Kitchen,Dinner Set,4,4646,20,14867.2,1549.68,Net Banking
+ORD10615,2025-07-23,Customer_156,Karnataka,Furniture,Table,1,6014,0,6014.0,1012.36,Cash
+ORD10084,2025-07-24,Customer_025,Maharashtra,Home & Kitchen,Cookware Set,3,2480,5,7068.0,1693.14,Cash
+ORD10141,2025-07-24,Customer_022,Delhi,Home & Kitchen,Cookware Set,5,4097,5,19460.75,3045.8,Credit Card
+ORD10459,2025-07-25,Customer_142,Telangana,Clothing,Jeans,1,3356,5,3188.2,298.52,UPI
+ORD10925,2025-07-26,Customer_172,Karnataka,Electronics,Laptop,5,70851,15,301116.75,44743.47,Net Banking
+ORD10448,2025-07-26,Customer_151,Kerala,Furniture,Bookshelf,1,11315,20,9052.0,1334.02,Net Banking
+ORD10403,2025-07-26,Customer_103,Delhi,Clothing,Jeans,4,1206,10,4341.6,1062.76,Credit Card
+ORD10839,2025-07-27,Customer_054,Maharashtra,Home & Kitchen,Air Fryer,4,9575,5,36385.0,5342.44,Cash
+ORD10022,2025-07-28,Customer_125,Kerala,Electronics,Laptop,2,51530,0,103060.0,19775.89,UPI
+ORD10573,2025-07-28,Customer_140,Andhra Pradesh,Electronics,Keyboard,2,4706,0,9412.0,1036.3,Credit Card
+ORD10907,2025-07-28,Customer_058,Telangana,Furniture,Desk,2,17486,10,31474.8,5240.93,Credit Card
+ORD10807,2025-07-29,Customer_197,Telangana,Home & Kitchen,Dinner Set,4,3512,0,14048.0,3151.62,UPI
+ORD10296,2025-07-29,Customer_042,Maharashtra,Home & Kitchen,Dinner Set,5,3036,5,14421.0,1385.15,UPI
+ORD10569,2025-07-29,Customer_177,Kerala,Clothing,Jacket,4,5917,5,22484.6,3670.37,Cash
+ORD10993,2025-07-30,Customer_120,Maharashtra,Furniture,Table,1,11778,10,10600.2,1341.75,Cash
+ORD10543,2025-07-30,Customer_109,Kerala,Clothing,Jeans,1,2914,10,2622.6,229.45,UPI
+ORD10580,2025-07-30,Customer_114,Kerala,Furniture,Sofa,1,26944,5,25596.8,3078.71,Debit Card
+ORD10906,2025-07-31,Customer_184,Andhra Pradesh,Furniture,Sofa,2,16932,0,33864.0,6598.39,Net Banking
+ORD10224,2025-07-31,Customer_186,Delhi,Home & Kitchen,Bottle,5,858,10,3861.0,521.76,Cash
+ORD10275,2025-08-01,Customer_063,Maharashtra,Electronics,Laptop,4,50463,0,201852.0,34179.59,UPI
+ORD10438,2025-08-02,Customer_049,Karnataka,Home & Kitchen,Air Fryer,4,5841,5,22195.8,3859.9,Debit Card
+ORD10658,2025-08-02,Customer_081,Andhra Pradesh,Clothing,Shoes,3,3884,15,9904.2,1627.86,Net Banking
+ORD10739,2025-08-02,Customer_067,Maharashtra,Electronics,Headphones,1,2378,0,2378.0,580.61,Credit Card
+ORD10206,2025-08-02,Customer_176,Maharashtra,Electronics,Monitor,1,21132,0,21132.0,4648.12,Cash
+ORD10390,2025-08-03,Customer_005,Delhi,Electronics,Headphones,5,3070,0,15350.0,1376.43,Net Banking
+ORD10937,2025-08-03,Customer_020,Maharashtra,Furniture,Sofa,1,40372,15,34316.2,4445.02,Debit Card
+ORD10420,2025-08-03,Customer_039,Telangana,Furniture,Office Chair,3,14655,5,41766.75,7944.02,Cash
+ORD10040,2025-08-03,Customer_114,Andhra Pradesh,Clothing,Shoes,5,4513,5,21436.75,5054.6,Cash
+ORD10236,2025-08-04,Customer_176,Delhi,Home & Kitchen,Bottle,1,647,0,647.0,120.54,Credit Card
+ORD10881,2025-08-04,Customer_190,Tamil Nadu,Electronics,Keyboard,4,3973,0,15892.0,3551.22,UPI
+ORD10914,2025-08-04,Customer_055,Tamil Nadu,Furniture,Sofa,3,39272,0,117816.0,19103.8,Credit Card
+ORD10626,2025-08-05,Customer_188,Delhi,Furniture,Office Chair,2,16836,10,30304.8,3497.59,UPI
+ORD10847,2025-08-05,Customer_017,Tamil Nadu,Furniture,Desk,4,7102,0,28408.0,4786.53,Net Banking
+ORD10825,2025-08-06,Customer_183,Tamil Nadu,Home & Kitchen,Mixer,1,3219,0,3219.0,738.69,Cash
+ORD10291,2025-08-06,Customer_029,Tamil Nadu,Electronics,Monitor,4,20431,10,73551.6,9929.48,Cash
+ORD10348,2025-08-07,Customer_099,Karnataka,Home & Kitchen,Bottle,4,928,5,3526.4,653.3,UPI
+ORD10506,2025-08-07,Customer_032,Karnataka,Electronics,Keyboard,4,3460,15,11764.0,1769.35,Cash
+ORD10883,2025-08-08,Customer_164,Kerala,Clothing,Jacket,4,3523,5,13387.4,1452.91,Debit Card
+ORD10884,2025-08-09,Customer_039,Tamil Nadu,Home & Kitchen,Air Fryer,4,5592,0,22368.0,2247.13,Net Banking
+ORD10500,2025-08-09,Customer_012,Maharashtra,Home & Kitchen,Bottle,1,1086,0,1086.0,234.54,Debit Card
+ORD10383,2025-08-09,Customer_160,Karnataka,Home & Kitchen,Dinner Set,1,2474,0,2474.0,277.8,Net Banking
+ORD10344,2025-08-09,Customer_137,Tamil Nadu,Furniture,Desk,4,23154,0,92616.0,19272.49,Credit Card
+ORD10775,2025-08-12,Customer_083,Karnataka,Furniture,Bookshelf,2,7213,0,14426.0,3029.33,UPI
+ORD10755,2025-08-13,Customer_025,Delhi,Furniture,Bookshelf,2,6237,5,11850.3,2526.2,Cash
+ORD10876,2025-08-13,Customer_138,Telangana,Clothing,Jeans,4,3194,20,10220.8,1172.54,UPI
+ORD10397,2025-08-14,Customer_115,Andhra Pradesh,Home & Kitchen,Dinner Set,1,5000,10,4500.0,707.45,Debit Card
+ORD10279,2025-08-14,Customer_041,Maharashtra,Electronics,Monitor,4,20834,10,75002.4,14624.07,UPI
+ORD10368,2025-08-14,Customer_101,Tamil Nadu,Furniture,Sofa,3,49587,0,148761.0,28029.79,Credit Card
+ORD10020,2025-08-14,Customer_185,Kerala,Clothing,Backpack,4,3233,5,12285.4,1845.75,Cash
+ORD10702,2025-08-15,Customer_200,Delhi,Home & Kitchen,Mixer,2,7023,0,14046.0,2720.84,Debit Card
+ORD10526,2025-08-15,Customer_175,Telangana,Clothing,Backpack,5,1843,0,9215.0,817.33,UPI
+ORD10278,2025-08-17,Customer_077,Telangana,Furniture,Bookshelf,2,5866,10,10558.8,2266.68,Cash
+ORD10995,2025-08-17,Customer_166,Tamil Nadu,Home & Kitchen,Dinner Set,4,4430,0,17720.0,4290.32,Cash
+ORD10057,2025-08-17,Customer_037,Maharashtra,Home & Kitchen,Dinner Set,1,4866,5,4622.7,567.2,Cash
+ORD10827,2025-08-18,Customer_152,Maharashtra,Clothing,Jeans,4,3620,0,14480.0,1435.55,Debit Card
+ORD10813,2025-08-18,Customer_098,Karnataka,Electronics,Headphones,3,6818,15,17385.9,3520.04,Net Banking
+ORD10475,2025-08-19,Customer_189,Karnataka,Clothing,Jacket,5,4980,0,24900.0,5953.82,Cash
+ORD10668,2025-08-19,Customer_006,Karnataka,Home & Kitchen,Cookware Set,1,1659,15,1410.15,244.79,Cash
+ORD10273,2025-08-20,Customer_091,Karnataka,Home & Kitchen,Dinner Set,2,3280,0,6560.0,1321.85,UPI
+ORD10269,2025-08-20,Customer_094,Tamil Nadu,Clothing,Backpack,2,2768,15,4705.6,649.2,UPI
+ORD10121,2025-08-21,Customer_126,Andhra Pradesh,Home & Kitchen,Air Fryer,3,10659,5,30378.15,2638.16,Cash
+ORD10617,2025-08-23,Customer_039,Tamil Nadu,Electronics,Keyboard,1,1898,5,1803.1,185.7,UPI
+ORD10829,2025-08-24,Customer_022,Karnataka,Clothing,Jacket,3,2772,0,8316.0,1918.37,UPI
+ORD10232,2025-08-24,Customer_142,Andhra Pradesh,Home & Kitchen,Dinner Set,3,1178,0,3534.0,744.47,Debit Card
+ORD10529,2025-08-25,Customer_142,Telangana,Furniture,Bookshelf,3,7761,10,20954.7,3398.01,Debit Card
+ORD10522,2025-08-25,Customer_001,Maharashtra,Clothing,Jacket,4,2275,0,9100.0,980.73,Cash
+ORD10725,2025-08-25,Customer_108,Kerala,Electronics,Headphones,5,10120,5,48070.0,9360.76,Credit Card
+ORD10346,2025-08-25,Customer_011,Karnataka,Clothing,Jacket,3,4301,20,10322.4,1703.12,Credit Card
+ORD10347,2025-08-25,Customer_069,Karnataka,Clothing,Jacket,4,4514,0,18056.0,3685.99,Debit Card
+ORD10511,2025-08-26,Customer_153,Karnataka,Electronics,Headphones,5,7207,5,34233.25,6379.73,Net Banking
+ORD10155,2025-08-26,Customer_025,Maharashtra,Electronics,Laptop,5,63351,10,285079.5,61840.44,UPI
+ORD10987,2025-08-26,Customer_123,Delhi,Home & Kitchen,Bottle,1,904,5,858.8,91.45,Credit Card
+ORD10198,2025-08-26,Customer_018,Andhra Pradesh,Home & Kitchen,Air Fryer,2,6315,10,11367.0,1703.94,UPI
+ORD10745,2025-08-27,Customer_034,Karnataka,Clothing,T-Shirt,5,1372,0,6860.0,789.99,UPI
+ORD10424,2025-08-27,Customer_047,Delhi,Clothing,Shoes,2,3400,0,6800.0,1293.97,Credit Card
+ORD10691,2025-08-29,Customer_163,Karnataka,Furniture,Desk,2,20087,5,38165.3,7046.14,Credit Card
+ORD10249,2025-08-30,Customer_013,Tamil Nadu,Electronics,Monitor,5,15716,10,70722.0,11252.38,Cash
+ORD10924,2025-08-31,Customer_152,Telangana,Clothing,Jacket,2,3690,5,7011.0,569.2,Debit Card
+ORD10981,2025-08-31,Customer_136,Delhi,Home & Kitchen,Mixer,4,6605,5,25099.0,2722.9,Credit Card
+ORD10242,2025-09-03,Customer_138,Kerala,Clothing,Shoes,5,1693,5,8041.75,1804.62,Debit Card
+ORD10164,2025-09-03,Customer_027,Delhi,Home & Kitchen,Cookware Set,5,3720,5,17670.0,1517.75,Credit Card
+ORD10446,2025-09-03,Customer_016,Karnataka,Clothing,Jeans,4,3372,5,12813.6,2257.69,Net Banking
+ORD10422,2025-09-04,Customer_174,Karnataka,Furniture,Bookshelf,4,4054,10,14594.4,3186.44,Credit Card
+ORD10087,2025-09-04,Customer_044,Tamil Nadu,Furniture,Bookshelf,4,9450,5,35910.0,4232.17,Debit Card
+ORD10253,2025-09-05,Customer_035,Tamil Nadu,Home & Kitchen,Cookware Set,1,5957,5,5659.15,479.53,Credit Card
+ORD10855,2025-09-05,Customer_188,Karnataka,Clothing,Backpack,5,2647,10,11911.5,1101.48,Net Banking
+ORD10879,2025-09-06,Customer_177,Tamil Nadu,Electronics,Mobile,1,44430,20,35544.0,2844.89,Net Banking
+ORD10861,2025-09-06,Customer_010,Maharashtra,Home & Kitchen,Bottle,3,577,0,1731.0,196.07,Cash
+ORD10314,2025-09-07,Customer_048,Kerala,Clothing,Shoes,4,6943,5,26383.4,4418.12,Credit Card
+ORD10299,2025-09-08,Customer_177,Andhra Pradesh,Electronics,Mobile,4,18588,5,70634.4,13453.31,Debit Card
+ORD10410,2025-09-08,Customer_159,Delhi,Furniture,Office Chair,2,8273,10,14891.4,3717.15,UPI
+ORD10644,2025-09-09,Customer_200,Telangana,Electronics,Headphones,1,10165,0,10165.0,1264.5,Debit Card
+ORD10576,2025-09-09,Customer_171,Tamil Nadu,Furniture,Table,5,14559,10,65515.5,11916.69,UPI
+ORD10229,2025-09-10,Customer_167,Maharashtra,Electronics,Monitor,2,23868,15,40575.6,7214.79,Net Banking
+ORD10324,2025-09-11,Customer_065,Delhi,Furniture,Table,1,7808,10,7027.2,773.5,Debit Card
+ORD10143,2025-09-11,Customer_187,Tamil Nadu,Home & Kitchen,Cookware Set,5,4159,15,17675.75,4030.37,Debit Card
+ORD10315,2025-09-12,Customer_065,Andhra Pradesh,Clothing,Backpack,2,1789,0,3578.0,337.98,Cash
+ORD10353,2025-09-12,Customer_167,Telangana,Electronics,Headphones,4,7401,5,28123.8,5200.32,UPI
+ORD10605,2025-09-12,Customer_118,Tamil Nadu,Clothing,T-Shirt,2,1046,10,1882.8,335.74,Net Banking
+ORD10828,2025-09-12,Customer_046,Maharashtra,Furniture,Sofa,1,35963,10,32366.7,4833.07,Debit Card
+ORD10400,2025-09-12,Customer_094,Karnataka,Electronics,Monitor,4,12361,5,46971.8,5761.07,Cash
+ORD10339,2025-09-12,Customer_076,Andhra Pradesh,Home & Kitchen,Dinner Set,2,1909,5,3627.1,680.11,Cash
+ORD10359,2025-09-13,Customer_031,Tamil Nadu,Electronics,Keyboard,3,2656,15,6772.8,1092.75,Debit Card
+ORD10834,2025-09-14,Customer_163,Tamil Nadu,Home & Kitchen,Cookware Set,4,5926,10,21333.6,2687.93,UPI
+ORD10276,2025-09-15,Customer_029,Andhra Pradesh,Home & Kitchen,Cookware Set,4,2355,0,9420.0,1871.11,Net Banking
+ORD10811,2025-09-15,Customer_057,Tamil Nadu,Clothing,Jeans,4,3195,5,12141.0,2104.21,UPI
+ORD10551,2025-09-15,Customer_110,Delhi,Electronics,Headphones,4,5258,15,17877.2,1664.76,Net Banking
+ORD10318,2025-09-15,Customer_090,Karnataka,Electronics,Monitor,2,25977,0,51954.0,9518.65,Debit Card
+ORD10678,2025-09-16,Customer_024,Tamil Nadu,Home & Kitchen,Dinner Set,1,4702,0,4702.0,1023.75,Credit Card
+ORD10312,2025-09-16,Customer_078,Maharashtra,Clothing,Jacket,1,3675,15,3123.75,758.44,Net Banking
+ORD10836,2025-09-16,Customer_046,Delhi,Home & Kitchen,Air Fryer,1,8320,10,7488.0,1798.24,Credit Card
+ORD10940,2025-09-16,Customer_101,Tamil Nadu,Furniture,Table,1,5296,5,5031.2,1151.66,UPI
+ORD10717,2025-09-16,Customer_127,Karnataka,Clothing,Backpack,5,3479,5,16525.25,1460.3,Net Banking
+ORD10689,2025-09-19,Customer_162,Tamil Nadu,Clothing,Backpack,5,3141,0,15705.0,2826.25,Credit Card
+ORD10504,2025-09-19,Customer_171,Maharashtra,Home & Kitchen,Air Fryer,1,10660,0,10660.0,2274.3,UPI
+ORD10856,2025-09-21,Customer_113,Telangana,Electronics,Monitor,1,19847,0,19847.0,3825.21,Net Banking
+ORD10083,2025-09-22,Customer_068,Kerala,Electronics,Mobile,3,42112,5,120019.2,12057.84,UPI
+ORD10577,2025-09-22,Customer_101,Andhra Pradesh,Electronics,Headphones,2,1276,0,2552.0,520.28,Debit Card
+ORD10251,2025-09-23,Customer_186,Andhra Pradesh,Furniture,Office Chair,1,9378,0,9378.0,880.33,Cash
+ORD10502,2025-09-23,Customer_021,Delhi,Electronics,Mobile,1,30951,0,30951.0,6821.86,Net Banking
+ORD10109,2025-09-23,Customer_127,Maharashtra,Furniture,Desk,3,16487,10,44514.9,10132.91,Credit Card
+ORD10190,2025-09-24,Customer_133,Karnataka,Furniture,Bookshelf,5,10804,5,51319.0,12631.53,Debit Card
+ORD10216,2025-09-24,Customer_146,Delhi,Electronics,Monitor,2,26111,5,49610.9,10423.83,Cash
+ORD10149,2025-09-25,Customer_098,Tamil Nadu,Electronics,Laptop,3,53472,15,136353.6,21156.38,UPI
+ORD10709,2025-09-25,Customer_072,Andhra Pradesh,Home & Kitchen,Air Fryer,5,6671,10,30019.5,5282.84,UPI
+ORD10664,2025-09-26,Customer_160,Telangana,Furniture,Bookshelf,5,10651,0,53255.0,5839.39,Net Banking
+ORD11000,2025-09-27,Customer_100,Delhi,Clothing,Jeans,4,1884,20,6028.8,1453.68,Net Banking
+ORD10014,2025-09-27,Customer_177,Delhi,Clothing,Backpack,4,1284,15,4365.6,953.86,UPI
+ORD10578,2025-09-28,Customer_165,Karnataka,Furniture,Bookshelf,2,4999,15,8498.3,1135.47,Net Banking
+ORD10832,2025-09-28,Customer_008,Tamil Nadu,Electronics,Monitor,3,29936,15,76336.8,14920.61,Cash
+ORD10926,2025-09-28,Customer_145,Kerala,Clothing,Jeans,2,3807,0,7614.0,912.98,Credit Card
+ORD10183,2025-09-28,Customer_072,Andhra Pradesh,Furniture,Office Chair,4,16240,10,58464.0,8259.83,Debit Card
+ORD10862,2025-09-28,Customer_006,Delhi,Electronics,Keyboard,2,1032,0,2064.0,452.93,Credit Card
+ORD10039,2025-09-28,Customer_131,Telangana,Electronics,Headphones,5,3307,20,13228.0,3159.27,Cash
+ORD10062,2025-09-30,Customer_118,Kerala,Clothing,Jeans,5,3892,0,19460.0,3452.54,Net Banking
+ORD10098,2025-09-30,Customer_130,Telangana,Home & Kitchen,Dinner Set,2,2674,10,4813.2,467.08,Net Banking
+ORD10069,2025-10-01,Customer_126,Karnataka,Home & Kitchen,Cookware Set,4,4490,10,16164.0,2378.96,Debit Card
+ORD10297,2025-10-02,Customer_043,Maharashtra,Furniture,Desk,4,15324,5,58231.2,12889.95,Cash
+ORD10542,2025-10-02,Customer_024,Maharashtra,Furniture,Office Chair,5,8536,0,42680.0,4125.5,UPI
+ORD10147,2025-10-03,Customer_030,Telangana,Clothing,Jeans,4,2882,5,10951.6,971.63,Cash
+ORD10948,2025-10-03,Customer_085,Maharashtra,Home & Kitchen,Dinner Set,5,4212,0,21060.0,2751.94,Credit Card
+ORD10525,2025-10-04,Customer_045,Tamil Nadu,Furniture,Desk,2,7207,5,13693.3,1995.66,Debit Card
+ORD10672,2025-10-04,Customer_120,Karnataka,Furniture,Desk,2,15203,0,30406.0,3447.13,Credit Card
+ORD10159,2025-10-05,Customer_128,Karnataka,Electronics,Keyboard,1,3746,15,3184.1,399.89,Credit Card
+ORD10298,2025-10-06,Customer_074,Telangana,Clothing,T-Shirt,5,1791,0,8955.0,2114.52,Debit Card
+ORD10572,2025-10-06,Customer_147,Telangana,Clothing,Backpack,5,1482,0,7410.0,1015.27,Debit Card
+ORD10620,2025-10-06,Customer_138,Tamil Nadu,Clothing,Shoes,1,1687,5,1602.65,164.45,Debit Card
+ORD10389,2025-10-08,Customer_051,Karnataka,Electronics,Monitor,2,12134,0,24268.0,3244.18,Cash
+ORD10803,2025-10-08,Customer_001,Delhi,Electronics,Headphones,3,4923,20,11815.2,1284.38,Debit Card
+ORD10319,2025-10-09,Customer_146,Andhra Pradesh,Clothing,Shoes,5,3274,5,15551.5,2271.82,UPI
+ORD10137,2025-10-09,Customer_104,Andhra Pradesh,Electronics,Headphones,4,8418,15,28621.2,3389.71,Debit Card
+ORD10550,2025-10-10,Customer_082,Andhra Pradesh,Clothing,Jeans,3,1564,15,3988.2,520.16,Debit Card
+ORD10887,2025-10-10,Customer_104,Andhra Pradesh,Electronics,Keyboard,4,4113,5,15629.4,3718.19,Net Banking
+ORD10262,2025-10-10,Customer_103,Delhi,Furniture,Table,3,8976,5,25581.6,5918.7,Cash
+ORD10363,2025-10-11,Customer_130,Tamil Nadu,Electronics,Laptop,5,57336,10,258012.0,23142.28,Net Banking
+ORD10029,2025-10-11,Customer_157,Karnataka,Home & Kitchen,Mixer,2,5476,5,10404.4,1573.78,UPI
+ORD10563,2025-10-12,Customer_053,Karnataka,Clothing,Jeans,2,3690,0,7380.0,1286.37,Credit Card
+ORD10978,2025-10-12,Customer_112,Delhi,Home & Kitchen,Mixer,4,6447,0,25788.0,4450.35,Debit Card
+ORD10135,2025-10-13,Customer_085,Tamil Nadu,Clothing,Backpack,1,3057,0,3057.0,663.25,Credit Card
+ORD10011,2025-10-14,Customer_045,Karnataka,Clothing,Backpack,1,3355,0,3355.0,582.47,UPI
+ORD10575,2025-10-15,Customer_159,Andhra Pradesh,Clothing,Jeans,5,3033,10,13648.5,3311.71,Credit Card
+ORD10274,2025-10-16,Customer_092,Delhi,Home & Kitchen,Air Fryer,5,5800,0,29000.0,3766.23,Credit Card
+ORD10744,2025-10-16,Customer_110,Andhra Pradesh,Electronics,Mobile,1,17355,20,13884.0,2468.02,Net Banking
+ORD10801,2025-10-18,Customer_147,Tamil Nadu,Electronics,Keyboard,4,4059,5,15424.2,1895.53,Credit Card
+ORD10968,2025-10-19,Customer_037,Kerala,Furniture,Desk,3,10967,0,32901.0,6935.7,Credit Card
+ORD10035,2025-10-19,Customer_177,Delhi,Furniture,Desk,3,20203,15,51517.65,10527.77,UPI
+ORD10181,2025-10-20,Customer_096,Andhra Pradesh,Electronics,Mobile,2,41492,10,74685.6,7959.53,Net Banking
+ORD10241,2025-10-21,Customer_141,Tamil Nadu,Furniture,Office Chair,1,16093,0,16093.0,2945.33,Debit Card
+ORD10414,2025-10-21,Customer_200,Maharashtra,Electronics,Monitor,2,23730,0,47460.0,4725.82,Cash
+ORD10250,2025-10-21,Customer_051,Andhra Pradesh,Clothing,Jacket,1,2529,20,2023.2,166.56,Credit Card
+ORD10685,2025-10-23,Customer_156,Delhi,Electronics,Monitor,4,27268,10,98164.8,11168.17,Cash
+ORD10494,2025-10-23,Customer_113,Kerala,Furniture,Table,2,7835,15,13319.5,2067.69,Debit Card
+ORD10474,2025-10-24,Customer_160,Maharashtra,Home & Kitchen,Dinner Set,4,2439,5,9268.2,1656.32,UPI
+ORD10992,2025-10-24,Customer_019,Maharashtra,Home & Kitchen,Mixer,2,4129,20,6606.4,573.22,UPI
+ORD10935,2025-10-24,Customer_143,Karnataka,Home & Kitchen,Bottle,5,919,0,4595.0,513.77,Cash
+ORD10261,2025-10-25,Customer_067,Tamil Nadu,Electronics,Laptop,1,62709,0,62709.0,5554.19,Net Banking
+ORD10928,2025-10-26,Customer_141,Tamil Nadu,Home & Kitchen,Cookware Set,3,3993,10,10781.1,1480.74,UPI
+ORD10357,2025-10-27,Customer_115,Kerala,Furniture,Desk,5,24850,15,105612.5,25747.44,Net Banking
+ORD10465,2025-10-27,Customer_103,Maharashtra,Home & Kitchen,Bottle,1,973,10,875.7,210.12,Debit Card
+ORD10752,2025-10-27,Customer_041,Andhra Pradesh,Electronics,Headphones,1,11270,5,10706.5,1594.25,Net Banking
+ORD10129,2025-10-28,Customer_042,Maharashtra,Home & Kitchen,Dinner Set,1,4725,0,4725.0,1104.33,UPI
+ORD10765,2025-10-28,Customer_027,Tamil Nadu,Electronics,Laptop,5,70351,0,351755.0,31873.69,Cash
+ORD10104,2025-10-29,Customer_106,Telangana,Home & Kitchen,Bottle,5,1192,15,5066.0,425.7,Credit Card
+ORD10858,2025-10-29,Customer_186,Maharashtra,Clothing,Jeans,5,1633,20,6532.0,983.55,Cash
+ORD10144,2025-10-31,Customer_114,Telangana,Home & Kitchen,Dinner Set,1,1500,0,1500.0,141.3,Cash
+ORD10498,2025-11-02,Customer_016,Kerala,Home & Kitchen,Mixer,1,6235,5,5923.25,1065.95,Credit Card
+ORD10233,2025-11-02,Customer_022,Andhra Pradesh,Home & Kitchen,Bottle,2,431,20,689.6,81.69,Net Banking
+ORD10565,2025-11-03,Customer_099,Delhi,Home & Kitchen,Bottle,4,1242,0,4968.0,400.98,Net Banking
+ORD10215,2025-11-03,Customer_106,Karnataka,Clothing,T-Shirt,4,981,0,3924.0,454.22,UPI
+ORD10960,2025-11-03,Customer_099,Telangana,Clothing,Shoes,2,1585,5,3011.5,280.78,UPI
+ORD10385,2025-11-03,Customer_198,Maharashtra,Electronics,Mobile,4,25467,10,91681.2,16007.44,UPI
+ORD10380,2025-11-03,Customer_025,Telangana,Electronics,Laptop,2,73011,0,146022.0,20738.02,Debit Card
+ORD10102,2025-11-04,Customer_069,Kerala,Furniture,Desk,1,18576,5,17647.2,1900.84,Debit Card
+ORD10221,2025-11-05,Customer_017,Kerala,Clothing,Shoes,1,3879,20,3103.2,764.8,Cash
+ORD10284,2025-11-05,Customer_024,Andhra Pradesh,Clothing,T-Shirt,3,1278,15,3258.9,411.38,Credit Card
+ORD10394,2025-11-05,Customer_048,Telangana,Home & Kitchen,Cookware Set,4,2641,5,10035.8,1955.6,UPI
+ORD10681,2025-11-06,Customer_044,Andhra Pradesh,Home & Kitchen,Dinner Set,2,4361,10,7849.8,1846.41,Cash
+ORD10956,2025-11-06,Customer_156,Kerala,Clothing,Shoes,1,5167,15,4391.95,1030.36,UPI
+ORD10300,2025-11-06,Customer_192,Telangana,Home & Kitchen,Air Fryer,3,7311,15,18643.05,1819.26,Net Banking
+ORD10442,2025-11-07,Customer_090,Karnataka,Home & Kitchen,Mixer,4,7137,15,24265.8,3366.44,Debit Card
+ORD10622,2025-11-07,Customer_015,Kerala,Furniture,Table,4,15948,15,54223.2,13088.2,UPI
+ORD10840,2025-11-07,Customer_165,Karnataka,Electronics,Headphones,3,9835,20,23604.0,2447.1,Net Banking
+ORD10364,2025-11-08,Customer_105,Maharashtra,Furniture,Office Chair,1,14342,0,14342.0,1404.54,Credit Card
+ORD10650,2025-11-10,Customer_140,Delhi,Electronics,Mobile,1,27592,15,23453.2,3822.64,Debit Card
+ORD10767,2025-11-10,Customer_074,Karnataka,Electronics,Monitor,4,28604,10,102974.4,10146.31,Cash
+ORD10009,2025-11-10,Customer_081,Tamil Nadu,Clothing,Backpack,3,807,5,2299.95,214.03,UPI
+ORD10896,2025-11-10,Customer_180,Kerala,Home & Kitchen,Cookware Set,2,3446,10,6202.8,533.75,UPI
+ORD10938,2025-11-11,Customer_170,Andhra Pradesh,Electronics,Laptop,5,48642,15,206728.5,31207.14,Cash
+ORD10547,2025-11-11,Customer_187,Andhra Pradesh,Electronics,Mobile,5,33083,0,165415.0,14515.08,Cash
+ORD10060,2025-11-14,Customer_098,Karnataka,Electronics,Laptop,5,71819,20,287276.0,48088.92,Debit Card
+ORD10642,2025-11-14,Customer_146,Maharashtra,Furniture,Desk,5,8951,0,44755.0,9516.53,Net Banking
+ORD10583,2025-11-17,Customer_108,Karnataka,Home & Kitchen,Air Fryer,2,4695,5,8920.5,1923.06,Debit Card
+ORD10541,2025-11-18,Customer_186,Tamil Nadu,Clothing,Shoes,2,5325,5,10117.5,893.15,Credit Card
+ORD10150,2025-11-18,Customer_057,Delhi,Home & Kitchen,Air Fryer,5,4423,0,22115.0,3026.4,Cash
+ORD10527,2025-11-19,Customer_026,Andhra Pradesh,Clothing,T-Shirt,4,1057,10,3805.2,561.74,Debit Card
+ORD10679,2025-11-20,Customer_065,Andhra Pradesh,Furniture,Desk,1,12046,0,12046.0,1843.57,Credit Card
+ORD10687,2025-11-20,Customer_199,Andhra Pradesh,Furniture,Desk,2,9167,0,18334.0,2421.75,Net Banking
+ORD10959,2025-11-21,Customer_115,Andhra Pradesh,Furniture,Office Chair,1,11236,20,8988.8,1551.35,Debit Card
+ORD10671,2025-11-21,Customer_088,Tamil Nadu,Electronics,Monitor,2,25237,5,47950.3,11144.5,Cash
+ORD10471,2025-11-21,Customer_018,Delhi,Electronics,Monitor,2,26330,0,52660.0,4573.44,Cash
+ORD10735,2025-11-22,Customer_083,Maharashtra,Furniture,Sofa,5,32508,15,138159.0,18178.35,Cash
+ORD10654,2025-11-22,Customer_002,Delhi,Electronics,Mobile,2,46324,0,92648.0,16850.9,Credit Card
+ORD10897,2025-11-22,Customer_159,Telangana,Furniture,Table,2,6783,0,13566.0,3378.42,Net Banking
+ORD10641,2025-11-23,Customer_186,Telangana,Furniture,Bookshelf,1,5555,0,5555.0,779.49,UPI
+ORD10326,2025-11-25,Customer_027,Delhi,Furniture,Office Chair,5,16641,0,83205.0,12938.18,Cash
+ORD10548,2025-11-25,Customer_032,Tamil Nadu,Home & Kitchen,Bottle,1,1071,15,910.35,219.23,UPI
+ORD10331,2025-11-26,Customer_100,Maharashtra,Electronics,Monitor,4,14054,15,47783.6,10422.59,Credit Card
+ORD10213,2025-11-26,Customer_050,Maharashtra,Electronics,Keyboard,1,1858,20,1486.4,369.57,Cash
+ORD10913,2025-11-27,Customer_128,Andhra Pradesh,Electronics,Keyboard,1,4032,15,3427.2,850.3,Net Banking
+ORD10661,2025-11-28,Customer_142,Telangana,Home & Kitchen,Air Fryer,3,10687,5,30457.95,2560.63,Net Banking
+ORD10951,2025-11-29,Customer_122,Maharashtra,Clothing,Jacket,4,4325,0,17300.0,3687.28,Net Banking
+ORD10454,2025-11-29,Customer_021,Andhra Pradesh,Furniture,Bookshelf,4,11988,5,45554.4,4268.66,Cash
+ORD10122,2025-11-30,Customer_152,Kerala,Electronics,Monitor,2,9441,20,15105.6,2719.31,Cash
+ORD10002,2025-11-30,Customer_099,Delhi,Home & Kitchen,Mixer,2,4926,5,9359.4,1885.99,Cash
+ORD10124,2025-11-30,Customer_198,Karnataka,Clothing,Jeans,2,3038,5,5772.2,1417.34,Credit Card
+ORD10740,2025-12-01,Customer_007,Karnataka,Home & Kitchen,Air Fryer,3,7374,5,21015.9,3087.33,Credit Card
+ORD10574,2025-12-01,Customer_015,Telangana,Furniture,Bookshelf,3,6637,10,17919.9,1733.43,Credit Card
+ORD10119,2025-12-02,Customer_026,Maharashtra,Home & Kitchen,Mixer,4,4738,10,17056.8,3647.65,Debit Card
+ORD10715,2025-12-02,Customer_037,Telangana,Home & Kitchen,Mixer,2,6399,15,10878.3,1401.43,Debit Card
+ORD10979,2025-12-02,Customer_126,Telangana,Home & Kitchen,Mixer,2,4176,0,8352.0,895.16,Credit Card
+ORD10405,2025-12-02,Customer_175,Tamil Nadu,Home & Kitchen,Cookware Set,4,3091,0,12364.0,1119.51,UPI
+ORD10355,2025-12-02,Customer_174,Delhi,Home & Kitchen,Air Fryer,1,8008,5,7607.6,862.41,Debit Card
+ORD10061,2025-12-03,Customer_133,Karnataka,Clothing,T-Shirt,2,1429,0,2858.0,378.51,UPI
+ORD10142,2025-12-03,Customer_181,Tamil Nadu,Electronics,Laptop,4,45141,10,162507.6,22323.22,UPI
+ORD10798,2025-12-04,Customer_006,Delhi,Clothing,Backpack,5,1340,10,6030.0,1205.14,Debit Card
+ORD10079,2025-12-04,Customer_130,Maharashtra,Clothing,Jeans,2,3403,15,5785.1,488.15,Credit Card
+ORD10094,2025-12-04,Customer_172,Kerala,Furniture,Desk,2,15087,0,30174.0,6298.46,UPI
+ORD10311,2025-12-05,Customer_195,Maharashtra,Home & Kitchen,Air Fryer,2,7760,0,15520.0,3487.28,Cash
+ORD10153,2025-12-05,Customer_115,Tamil Nadu,Electronics,Mobile,2,46518,15,79080.6,8495.82,Net Banking
+ORD10067,2025-12-07,Customer_032,Maharashtra,Home & Kitchen,Air Fryer,4,7557,20,24182.4,5956.62,UPI
+ORD10867,2025-12-08,Customer_020,Maharashtra,Electronics,Keyboard,5,3209,10,14440.5,3001.59,Net Banking
+ORD10285,2025-12-09,Customer_099,Delhi,Furniture,Table,5,5517,15,23447.25,2744.3,Credit Card
+ORD10270,2025-12-09,Customer_196,Maharashtra,Clothing,Shoes,1,2203,10,1982.7,467.79,Credit Card
+ORD10571,2025-12-10,Customer_087,Karnataka,Furniture,Bookshelf,5,8845,10,39802.5,3346.63,Cash
+ORD10053,2025-12-10,Customer_119,Maharashtra,Clothing,Backpack,3,1925,0,5775.0,1291.25,Debit Card
+ORD10826,2025-12-12,Customer_174,Karnataka,Home & Kitchen,Dinner Set,2,3602,10,6483.6,1318.2,UPI
+ORD10695,2025-12-14,Customer_028,Telangana,Furniture,Table,2,13080,15,22236.0,3737.28,UPI
+ORD10779,2025-12-15,Customer_101,Andhra Pradesh,Home & Kitchen,Bottle,3,1367,0,4101.0,803.93,UPI
+ORD10760,2025-12-16,Customer_147,Kerala,Clothing,Jacket,5,3678,15,15631.5,3498.97,Debit Card
+ORD10777,2025-12-17,Customer_022,Telangana,Electronics,Monitor,1,10673,15,9072.05,1790.41,UPI
+ORD10629,2025-12-17,Customer_151,Maharashtra,Clothing,Jeans,5,1557,15,6617.25,1073.63,Cash
+ORD10059,2025-12-18,Customer_044,Andhra Pradesh,Clothing,Shoes,1,3060,0,3060.0,496.59,Credit Card
+ORD10260,2025-12-18,Customer_147,Kerala,Clothing,Shoes,2,6296,10,11332.8,2766.35,Debit Card
+ORD10360,2025-12-19,Customer_011,Andhra Pradesh,Clothing,Jeans,4,3198,15,10873.2,1952.24,Credit Card
+ORD10712,2025-12-19,Customer_175,Delhi,Furniture,Sofa,1,47441,0,47441.0,11309.74,Net Banking
+ORD10101,2025-12-21,Customer_110,Maharashtra,Clothing,T-Shirt,5,1430,5,6792.5,1239.06,Debit Card
+ORD10692,2025-12-21,Customer_116,Andhra Pradesh,Furniture,Bookshelf,3,9056,10,24451.2,2295.18,Cash
+ORD10338,2025-12-21,Customer_131,Tamil Nadu,Clothing,Backpack,5,2089,5,9922.75,1018.53,UPI
+ORD10966,2025-12-22,Customer_109,Delhi,Electronics,Laptop,2,69532,0,139064.0,11437.86,UPI
+ORD10158,2025-12-22,Customer_075,Delhi,Furniture,Table,5,11789,5,55997.75,5900.62,Cash
+ORD10655,2025-12-23,Customer_143,Karnataka,Furniture,Bookshelf,4,10570,15,35938.0,6013.52,UPI
+ORD10358,2025-12-23,Customer_188,Karnataka,Home & Kitchen,Air Fryer,1,6282,10,5653.8,556.15,Net Banking
+ORD10172,2025-12-23,Customer_188,Karnataka,Electronics,Mobile,2,46228,0,92456.0,12069.1,Cash
+ORD10964,2025-12-23,Customer_067,Andhra Pradesh,Clothing,Jacket,1,5383,10,4844.7,526.61,Cash
+ORD10757,2025-12-24,Customer_078,Kerala,Furniture,Desk,3,8005,0,24015.0,3432.69,UPI
+ORD10633,2025-12-24,Customer_078,Telangana,Electronics,Monitor,3,21449,5,61129.65,10871.96,Net Banking
+ORD10845,2025-12-24,Customer_079,Telangana,Electronics,Headphones,5,3204,5,15219.0,2141.66,Debit Card
+ORD10479,2025-12-24,Customer_070,Tamil Nadu,Electronics,Mobile,1,28766,10,25889.4,6254.64,Net Banking
+ORD10335,2025-12-28,Customer_127,Andhra Pradesh,Furniture,Sofa,2,49610,0,99220.0,19281.05,Net Banking
+ORD10196,2025-12-30,Customer_023,Andhra Pradesh,Furniture,Office Chair,2,7479,0,14958.0,2385.89,UPI
+ORD10464,2025-12-31,Customer_181,Tamil Nadu,Electronics,Laptop,1,46932,10,42238.8,5368.63,Net Banking
+ORD10581,2025-12-31,Customer_107,Karnataka,Furniture,Office Chair,5,8735,10,39307.5,3792.55,Cash
+ORD10369,2025-12-31,Customer_021,Andhra Pradesh,Clothing,Shoes,2,3824,0,7648.0,1678.06,Credit Card
+ORD10866,2025-12-31,Customer_065,Karnataka,Electronics,Keyboard,5,4070,10,18315.0,2264.28,Debit Card
+ORD10333,2026-01-01,Customer_173,Telangana,Home & Kitchen,Mixer,2,6700,10,12060.0,1591.64,Credit Card
+ORD10055,2026-01-01,Customer_092,Telangana,Clothing,T-Shirt,5,746,10,3357.0,484.87,Cash
+ORD10431,2026-01-02,Customer_015,Karnataka,Electronics,Laptop,1,73226,5,69564.7,9563.36,UPI
+ORD10699,2026-01-02,Customer_106,Kerala,Furniture,Sofa,4,34008,0,136032.0,29657.32,Credit Card
+ORD10425,2026-01-02,Customer_172,Tamil Nadu,Home & Kitchen,Cookware Set,4,2957,0,11828.0,2865.64,UPI
+ORD10370,2026-01-03,Customer_058,Delhi,Clothing,Shoes,1,2630,0,2630.0,228.99,UPI
+ORD10905,2026-01-03,Customer_075,Kerala,Clothing,Jacket,4,4149,15,14106.6,2193.73,Debit Card
+ORD10064,2026-01-03,Customer_159,Tamil Nadu,Electronics,Mobile,5,27036,0,135180.0,11716.83,Debit Card
+ORD10534,2026-01-03,Customer_031,Tamil Nadu,Electronics,Headphones,5,3454,5,16406.5,1485.56,Cash
+ORD10409,2026-01-03,Customer_053,Maharashtra,Home & Kitchen,Air Fryer,5,9906,0,49530.0,9503.69,Net Banking
+ORD10439,2026-01-04,Customer_146,Delhi,Clothing,Jacket,3,4109,0,12327.0,2233.52,Credit Card
+ORD10741,2026-01-04,Customer_151,Karnataka,Clothing,Backpack,3,2319,10,6261.3,640.04,Cash
+ORD10536,2026-01-06,Customer_029,Karnataka,Furniture,Table,2,5946,0,11892.0,2111.51,Debit Card
+ORD10853,2026-01-06,Customer_009,Kerala,Electronics,Mobile,3,45398,0,136194.0,33648.87,UPI
+ORD10512,2026-01-07,Customer_066,Karnataka,Furniture,Sofa,5,16140,15,68595.0,12153.2,Credit Card
+ORD10963,2026-01-07,Customer_166,Kerala,Furniture,Desk,2,24020,0,48040.0,10863.75,Cash
+ORD10786,2026-01-07,Customer_168,Tamil Nadu,Electronics,Mobile,4,49261,5,187191.8,40509.68,UPI
+ORD10556,2026-01-08,Customer_064,Tamil Nadu,Home & Kitchen,Bottle,5,636,20,2544.0,309.84,Debit Card
+ORD10537,2026-01-08,Customer_106,Telangana,Home & Kitchen,Air Fryer,2,8810,0,17620.0,3105.05,Cash
+ORD10875,2026-01-08,Customer_012,Kerala,Furniture,Office Chair,2,10102,15,17173.4,1533.66,Net Banking
+ORD10749,2026-01-08,Customer_009,Telangana,Electronics,Mobile,4,14257,10,51325.2,9735.73,Cash
+ORD10165,2026-01-08,Customer_190,Telangana,Furniture,Bookshelf,1,10230,0,10230.0,1499.97,Net Banking
+ORD10748,2026-01-09,Customer_058,Andhra Pradesh,Clothing,T-Shirt,1,1536,5,1459.2,222.78,Net Banking
+ORD10762,2026-01-10,Customer_119,Telangana,Furniture,Bookshelf,3,4772,20,11452.8,2778.1,Cash
+ORD10244,2026-01-10,Customer_009,Karnataka,Electronics,Mobile,4,29569,5,112362.2,23012.42,Debit Card
+ORD10081,2026-01-11,Customer_003,Andhra Pradesh,Clothing,Jacket,4,3041,20,9731.2,1869.52,Net Banking
+ORD10665,2026-01-11,Customer_070,Karnataka,Electronics,Keyboard,5,2389,0,11945.0,1913.36,UPI
+ORD10381,2026-01-12,Customer_130,Maharashtra,Home & Kitchen,Air Fryer,5,5889,5,27972.75,5285.85,Cash
+ORD10246,2026-01-13,Customer_052,Telangana,Furniture,Bookshelf,5,7005,5,33273.75,5368.71,Debit Card
+ORD10179,2026-01-13,Customer_135,Kerala,Electronics,Laptop,1,51816,5,49225.2,10836.41,Cash
+ORD10501,2026-01-13,Customer_035,Telangana,Clothing,Jacket,5,2798,0,13990.0,2438.41,Credit Card
+ORD10588,2026-01-14,Customer_050,Tamil Nadu,Clothing,Shoes,2,5059,10,9106.2,841.09,UPI
+ORD10145,2026-01-15,Customer_125,Andhra Pradesh,Home & Kitchen,Air Fryer,1,4839,15,4113.15,476.68,UPI
+ORD10428,2026-01-15,Customer_178,Delhi,Home & Kitchen,Mixer,5,3899,15,16570.75,3020.97,Net Banking
+ORD10634,2026-01-15,Customer_200,Telangana,Electronics,Headphones,1,8913,0,8913.0,957.68,Net Banking
+ORD10256,2026-01-17,Customer_187,Karnataka,Clothing,Shoes,2,3144,15,5344.8,925.64,Cash
+ORD10423,2026-01-17,Customer_112,Maharashtra,Furniture,Desk,4,21747,10,78289.2,18780.46,Net Banking
+ORD10520,2026-01-19,Customer_103,Maharashtra,Furniture,Office Chair,4,17021,0,68084.0,6373.89,UPI
+ORD10976,2026-01-19,Customer_081,Delhi,Furniture,Bookshelf,1,7444,15,6327.4,911.77,Net Banking
+ORD10184,2026-01-22,Customer_133,Delhi,Clothing,T-Shirt,5,833,0,4165.0,808.49,Credit Card
+ORD10823,2026-01-22,Customer_067,Karnataka,Furniture,Bookshelf,4,6709,5,25494.2,5060.45,Net Banking
+ORD10523,2026-01-22,Customer_101,Tamil Nadu,Furniture,Office Chair,5,12684,10,57078.0,6356.09,Net Banking
+ORD10178,2026-01-22,Customer_023,Delhi,Clothing,Jeans,5,3567,0,17835.0,3467.58,Net Banking
+ORD10560,2026-01-23,Customer_106,Andhra Pradesh,Furniture,Desk,4,20482,15,69638.8,16805.7,Credit Card
+ORD10996,2026-01-23,Customer_038,Maharashtra,Electronics,Keyboard,1,4474,5,4250.3,594.6,UPI
+ORD10885,2026-01-24,Customer_053,Maharashtra,Home & Kitchen,Bottle,4,858,20,2745.6,251.2,Credit Card
+ORD10607,2026-01-24,Customer_139,Delhi,Clothing,T-Shirt,1,1202,5,1141.9,247.46,Net Banking
+ORD10824,2026-01-24,Customer_190,Kerala,Clothing,Backpack,1,2859,0,2859.0,405.14,Net Banking
+ORD10247,2026-01-25,Customer_130,Kerala,Electronics,Keyboard,3,3061,15,7805.55,1856.99,Credit Card
+ORD10999,2026-01-26,Customer_105,Andhra Pradesh,Home & Kitchen,Cookware Set,3,5869,10,15846.3,2324.29,UPI
+ORD10483,2026-01-27,Customer_084,Kerala,Electronics,Keyboard,3,938,10,2532.6,553.24,UPI
+ORD10214,2026-01-27,Customer_166,Andhra Pradesh,Clothing,Jacket,2,2776,0,5552.0,721.71,Debit Card
+ORD10602,2026-01-28,Customer_183,Tamil Nadu,Home & Kitchen,Dinner Set,2,1200,5,2280.0,311.93,UPI
+ORD10863,2026-01-29,Customer_115,Karnataka,Furniture,Table,3,13744,20,32985.6,6276.73,Credit Card
+ORD10931,2026-01-29,Customer_114,Karnataka,Clothing,T-Shirt,1,1662,5,1578.9,208.93,UPI
+ORD10477,2026-01-29,Customer_017,Maharashtra,Electronics,Laptop,2,49857,5,94728.3,15328.67,Credit Card
+ORD10734,2026-01-30,Customer_148,Maharashtra,Home & Kitchen,Bottle,4,1109,5,4214.2,1006.66,UPI
+ORD10733,2026-01-31,Customer_111,Karnataka,Electronics,Laptop,3,50842,5,144899.7,27495.07,Cash
+ORD10387,2026-01-31,Customer_067,Telangana,Clothing,T-Shirt,4,1346,0,5384.0,1264.85,UPI
+ORD10705,2026-01-31,Customer_005,Andhra Pradesh,Electronics,Keyboard,5,2988,0,14940.0,1246.35,Debit Card
+ORD10328,2026-02-01,Customer_123,Maharashtra,Clothing,Jeans,3,3288,0,9864.0,2254.07,Debit Card
+ORD10203,2026-02-01,Customer_039,Telangana,Clothing,Jeans,1,2548,0,2548.0,291.13,Debit Card
+ORD10930,2026-02-01,Customer_093,Andhra Pradesh,Electronics,Monitor,5,14451,15,61416.75,4919.58,Net Banking
+ORD10608,2026-02-02,Customer_191,Delhi,Home & Kitchen,Dinner Set,5,4175,20,16700.0,3795.78,Credit Card
+ORD10134,2026-02-02,Customer_146,Tamil Nadu,Electronics,Headphones,1,8374,5,7955.3,1762.11,Cash
+ORD10382,2026-02-03,Customer_121,Telangana,Furniture,Office Chair,1,6823,0,6823.0,1086.57,UPI
+ORD10598,2026-02-06,Customer_136,Delhi,Clothing,Jeans,4,2967,20,9494.4,1420.78,Debit Card
+ORD10458,2026-02-06,Customer_186,Maharashtra,Home & Kitchen,Air Fryer,2,5936,0,11872.0,2621.75,Cash
+ORD10281,2026-02-06,Customer_037,Andhra Pradesh,Home & Kitchen,Bottle,3,1364,0,4092.0,985.38,Debit Card
+ORD10455,2026-02-07,Customer_145,Telangana,Electronics,Keyboard,1,4972,20,3977.6,953.54,UPI
+ORD10080,2026-02-08,Customer_062,Tamil Nadu,Home & Kitchen,Air Fryer,2,7831,15,13312.7,2430.9,Cash
+ORD10621,2026-02-08,Customer_171,Tamil Nadu,Home & Kitchen,Air Fryer,2,8044,10,14479.2,1549.06,UPI
+ORD10902,2026-02-08,Customer_080,Delhi,Home & Kitchen,Mixer,5,6145,5,29188.75,4279.3,Debit Card
+ORD10188,2026-02-09,Customer_177,Tamil Nadu,Clothing,Shoes,4,1567,0,6268.0,667.88,UPI
+ORD10482,2026-02-09,Customer_034,Kerala,Furniture,Sofa,5,23491,0,117455.0,11116.23,Cash
+ORD10868,2026-02-11,Customer_057,Tamil Nadu,Furniture,Desk,5,17704,20,70816.0,11839.64,Debit Card
+ORD10105,2026-02-12,Customer_044,Delhi,Furniture,Sofa,1,37433,10,33689.7,7477.13,UPI
+ORD10613,2026-02-13,Customer_078,Maharashtra,Home & Kitchen,Air Fryer,2,11551,10,20791.8,3602.39,UPI
+ORD10356,2026-02-13,Customer_165,Delhi,Clothing,Jeans,2,1467,0,2934.0,297.34,UPI
+ORD10307,2026-02-14,Customer_031,Maharashtra,Home & Kitchen,Cookware Set,2,5241,5,9957.9,1400.29,Debit Card
+ORD10239,2026-02-14,Customer_178,Tamil Nadu,Clothing,T-Shirt,3,575,10,1552.5,140.02,Debit Card
+ORD10791,2026-02-15,Customer_093,Maharashtra,Furniture,Bookshelf,5,5158,0,25790.0,4966.98,Debit Card
+ORD10802,2026-02-16,Customer_155,Kerala,Furniture,Table,5,14469,5,68727.75,15698.61,Net Banking
+ORD10871,2026-02-16,Customer_010,Kerala,Electronics,Laptop,5,77082,0,385410.0,96073.02,Cash
+ORD10614,2026-02-16,Customer_184,Delhi,Furniture,Desk,5,14605,0,73025.0,10841.71,Net Banking
+ORD10005,2026-02-17,Customer_106,Telangana,Clothing,Shoes,1,5902,0,5902.0,588.91,Credit Card
+ORD10308,2026-02-18,Customer_115,Telangana,Furniture,Table,1,7052,5,6699.4,825.78,Cash
+ORD10456,2026-02-18,Customer_023,Delhi,Clothing,T-Shirt,2,558,5,1060.2,220.92,Debit Card
+ORD10445,2026-02-19,Customer_055,Tamil Nadu,Home & Kitchen,Air Fryer,5,6169,15,26218.25,2450.82,Debit Card
+ORD10815,2026-02-19,Customer_120,Telangana,Home & Kitchen,Mixer,3,5292,5,15082.2,2756.02,Debit Card
+ORD10656,2026-02-20,Customer_151,Tamil Nadu,Electronics,Headphones,3,8480,20,20352.0,2625.23,Net Banking
+ORD10729,2026-02-20,Customer_156,Telangana,Electronics,Keyboard,5,2429,5,11537.75,1536.16,UPI
+ORD10337,2026-02-20,Customer_168,Tamil Nadu,Electronics,Keyboard,1,2796,0,2796.0,373.52,Credit Card
+ORD10652,2026-02-22,Customer_012,Karnataka,Home & Kitchen,Mixer,4,2936,0,11744.0,1461.27,Net Banking
+ORD10579,2026-02-23,Customer_029,Andhra Pradesh,Furniture,Bookshelf,5,4227,10,19021.5,2793.02,Credit Card
+ORD10437,2026-02-24,Customer_024,Kerala,Home & Kitchen,Dinner Set,5,4634,15,19694.5,1771.64,Debit Card
+ORD10690,2026-02-24,Customer_139,Tamil Nadu,Furniture,Table,4,10352,0,41408.0,6314.93,Cash
+ORD10391,2026-02-24,Customer_013,Delhi,Clothing,T-Shirt,4,859,20,2748.8,578.1,UPI
+ORD10461,2026-02-24,Customer_020,Tamil Nadu,Furniture,Bookshelf,2,6236,0,12472.0,2333.71,Debit Card
+ORD10835,2026-02-25,Customer_049,Karnataka,Electronics,Laptop,5,68303,0,341515.0,41765.44,Credit Card
+ORD10343,2026-02-25,Customer_069,Kerala,Clothing,Backpack,5,2363,10,10633.5,2117.17,Debit Card
+ORD10191,2026-02-26,Customer_022,Delhi,Clothing,T-Shirt,1,1650,20,1320.0,283.73,Credit Card
+ORD10373,2026-02-26,Customer_173,Maharashtra,Furniture,Desk,1,8658,10,7792.2,957.61,Net Banking
+ORD10240,2026-02-26,Customer_089,Delhi,Home & Kitchen,Bottle,1,878,5,834.1,85.3,Cash
+ORD10554,2026-02-27,Customer_026,Andhra Pradesh,Home & Kitchen,Air Fryer,4,4115,0,16460.0,1661.77,Debit Card
+ORD10558,2026-02-28,Customer_148,Maharashtra,Furniture,Office Chair,4,8935,10,32166.0,7984.11,UPI
+ORD10054,2026-02-28,Customer_097,Kerala,Home & Kitchen,Mixer,3,4029,0,12087.0,1853.19,Debit Card
+ORD10399,2026-03-01,Customer_076,Tamil Nadu,Home & Kitchen,Mixer,1,7274,0,7274.0,1737.79,Debit Card
+ORD10869,2026-03-01,Customer_046,Delhi,Clothing,Shoes,4,1525,0,6100.0,820.73,UPI
+ORD10771,2026-03-02,Customer_028,Tamil Nadu,Electronics,Laptop,2,78002,15,132603.4,30344.04,Cash
+ORD10524,2026-03-02,Customer_198,Tamil Nadu,Clothing,T-Shirt,4,1476,0,5904.0,675.36,Debit Card
+ORD10892,2026-03-02,Customer_030,Kerala,Clothing,Jacket,2,4095,10,7371.0,1059.36,Credit Card
+ORD10048,2026-03-03,Customer_020,Karnataka,Clothing,Backpack,1,1952,0,1952.0,398.9,Debit Card
+ORD10467,2026-03-04,Customer_077,Andhra Pradesh,Home & Kitchen,Dinner Set,3,4925,0,14775.0,3380.12,Debit Card
+ORD10595,2026-03-04,Customer_156,Tamil Nadu,Home & Kitchen,Air Fryer,4,5572,5,21173.6,4683.72,Cash
+ORD10559,2026-03-05,Customer_182,Maharashtra,Home & Kitchen,Dinner Set,5,1839,15,7815.75,1534.49,Cash
+ORD10052,2026-03-05,Customer_196,Maharashtra,Furniture,Office Chair,2,5923,5,11253.7,1933.95,Cash
+ORD10401,2026-03-05,Customer_005,Tamil Nadu,Home & Kitchen,Bottle,5,739,5,3510.25,352.7,Debit Card
+ORD10872,2026-03-08,Customer_113,Telangana,Home & Kitchen,Bottle,2,566,5,1075.4,165.61,Cash
+ORD10093,2026-03-09,Customer_041,Karnataka,Furniture,Sofa,3,26439,0,79317.0,11983.58,UPI
+ORD10584,2026-03-09,Customer_130,Kerala,Furniture,Desk,2,18306,5,34781.4,6788.73,Debit Card
+ORD10076,2026-03-09,Customer_030,Delhi,Furniture,Office Chair,5,15013,15,63805.25,13600.77,Cash
+ORD10417,2026-03-09,Customer_116,Kerala,Electronics,Keyboard,4,1729,0,6916.0,1008.61,Debit Card
+ORD10971,2026-03-10,Customer_126,Maharashtra,Home & Kitchen,Dinner Set,4,3503,15,11910.2,2612.34,Credit Card
+ORD10402,2026-03-10,Customer_022,Delhi,Home & Kitchen,Mixer,1,5480,15,4658.0,835.52,Net Banking
+ORD10280,2026-03-11,Customer_130,Telangana,Furniture,Office Chair,3,5182,10,13991.4,2735.85,Net Banking
+ORD10531,2026-03-12,Customer_199,Andhra Pradesh,Electronics,Mobile,4,24869,0,99476.0,22148.82,UPI
+ORD10130,2026-03-12,Customer_194,Karnataka,Home & Kitchen,Dinner Set,5,3019,15,12830.75,1843.81,Credit Card
+ORD10286,2026-03-12,Customer_150,Tamil Nadu,Clothing,Shoes,4,6502,20,20806.4,4005.48,UPI
+ORD10231,2026-03-14,Customer_099,Tamil Nadu,Furniture,Bookshelf,4,6740,0,26960.0,3421.41,UPI
+ORD10842,2026-03-14,Customer_040,Kerala,Home & Kitchen,Bottle,3,494,0,1482.0,255.68,Credit Card
+ORD10958,2026-03-15,Customer_089,Kerala,Electronics,Laptop,2,67357,0,134714.0,29584.88,Credit Card
+ORD10701,2026-03-15,Customer_053,Tamil Nadu,Furniture,Sofa,1,20793,5,19753.35,3760.93,Credit Card
+ORD10731,2026-03-17,Customer_067,Karnataka,Clothing,Backpack,3,1332,5,3796.2,439.02,Net Banking
+ORD10218,2026-03-17,Customer_169,Delhi,Electronics,Headphones,1,8468,10,7621.2,1731.12,Credit Card
+ORD10033,2026-03-18,Customer_082,Telangana,Home & Kitchen,Dinner Set,1,4591,0,4591.0,547.87,Net Banking
+ORD10113,2026-03-18,Customer_198,Maharashtra,Home & Kitchen,Air Fryer,2,6501,15,11051.7,958.14,Net Banking
+ORD10704,2026-03-18,Customer_100,Karnataka,Home & Kitchen,Mixer,4,3318,15,11281.2,2691.33,Net Banking
+ORD10789,2026-03-18,Customer_111,Kerala,Home & Kitchen,Dinner Set,3,4992,5,14227.2,3441.64,UPI
+ORD10173,2026-03-19,Customer_169,Andhra Pradesh,Clothing,Jacket,3,4523,10,12212.1,1454.45,Net Banking
+ORD10258,2026-03-19,Customer_176,Maharashtra,Furniture,Table,3,12333,0,36999.0,4821.28,Net Banking
+ORD10480,2026-03-20,Customer_120,Tamil Nadu,Home & Kitchen,Air Fryer,2,9099,15,15468.3,1295.49,Credit Card
+ORD10041,2026-03-20,Customer_062,Telangana,Clothing,T-Shirt,5,865,5,4108.75,772.53,Net Banking
+ORD10703,2026-03-20,Customer_132,Tamil Nadu,Electronics,Mobile,4,17571,5,66769.8,14407.02,Credit Card
+ORD10493,2026-03-21,Customer_127,Andhra Pradesh,Electronics,Keyboard,3,3970,10,10719.0,1251.73,Net Banking
+ORD10245,2026-03-22,Customer_079,Karnataka,Clothing,Backpack,2,3194,20,5110.4,705.36,Credit Card
+ORD10499,2026-03-22,Customer_168,Karnataka,Electronics,Headphones,2,7905,10,14229.0,1992.45,Cash
+ORD10413,2026-03-22,Customer_161,Delhi,Furniture,Sofa,5,26738,15,113636.5,16831.81,Cash
+ORD10217,2026-03-23,Customer_155,Tamil Nadu,Home & Kitchen,Air Fryer,2,6527,10,11748.6,1445.25,Net Banking
+ORD10728,2026-03-23,Customer_007,Delhi,Clothing,Jacket,5,5323,15,22622.75,4732.7,Credit Card
+ORD10800,2026-03-23,Customer_104,Maharashtra,Clothing,Backpack,1,2201,5,2090.95,408.18,UPI
+ORD10043,2026-03-23,Customer_064,Kerala,Furniture,Table,4,9906,15,33680.4,5003.08,UPI
+ORD10854,2026-03-24,Customer_033,Andhra Pradesh,Clothing,Shoes,1,5216,10,4694.4,575.04,Credit Card
+ORD10916,2026-03-25,Customer_062,Telangana,Furniture,Table,3,10474,5,29850.9,6217.25,UPI
+ORD10635,2026-03-26,Customer_009,Andhra Pradesh,Furniture,Office Chair,1,12547,5,11919.65,1909.48,UPI
+ORD10097,2026-03-26,Customer_047,Andhra Pradesh,Furniture,Table,4,10763,10,38746.8,5689.1,Debit Card
+ORD10434,2026-03-28,Customer_069,Karnataka,Home & Kitchen,Dinner Set,4,4501,5,17103.8,1841.26,UPI
+ORD10476,2026-03-29,Customer_182,Karnataka,Home & Kitchen,Air Fryer,4,11730,10,42228.0,8204.17,Debit Card
+ORD10773,2026-03-29,Customer_161,Kerala,Electronics,Headphones,1,8480,0,8480.0,1916.3,Debit Card
+ORD10272,2026-03-31,Customer_129,Tamil Nadu,Home & Kitchen,Cookware Set,5,3929,0,19645.0,2050.11,Debit Card
+ORD10947,2026-03-31,Customer_077,Tamil Nadu,Electronics,Keyboard,1,1319,10,1187.1,155.04,Credit Card
+ORD10848,2026-04-01,Customer_161,Kerala,Furniture,Table,5,9243,0,46215.0,7159.31,Net Banking
+ORD10138,2026-04-02,Customer_180,Karnataka,Electronics,Laptop,1,67746,5,64358.7,14090.82,Net Banking
+ORD10919,2026-04-03,Customer_077,Karnataka,Home & Kitchen,Bottle,2,1162,0,2324.0,577.89,Cash
+ORD10330,2026-04-04,Customer_044,Delhi,Home & Kitchen,Dinner Set,5,2793,10,12568.5,2250.53,UPI
+ORD10132,2026-04-04,Customer_103,Kerala,Electronics,Keyboard,3,1192,10,3218.4,285.14,Cash
+ORD10228,2026-04-05,Customer_026,Karnataka,Furniture,Desk,4,20567,5,78154.6,15320.69,Cash
+ORD10686,2026-04-06,Customer_124,Delhi,Furniture,Desk,3,24193,0,72579.0,8852.15,Net Banking
+ORD10432,2026-04-06,Customer_036,Telangana,Furniture,Sofa,4,19652,0,78608.0,7983.44,Cash
+ORD10350,2026-04-06,Customer_194,Telangana,Clothing,Jeans,1,3135,20,2508.0,211.59,Credit Card
+ORD10624,2026-04-08,Customer_086,Maharashtra,Furniture,Bookshelf,1,8409,0,8409.0,1969.36,Debit Card
+ORD10636,2026-04-08,Customer_121,Delhi,Furniture,Table,4,11823,0,47292.0,8233.07,UPI
+ORD10972,2026-04-09,Customer_136,Tamil Nadu,Clothing,T-Shirt,3,1443,15,3679.65,849.97,Debit Card
+ORD10111,2026-04-09,Customer_030,Kerala,Home & Kitchen,Air Fryer,1,5070,15,4309.5,652.19,Credit Card
+ORD10435,2026-04-09,Customer_169,Telangana,Home & Kitchen,Mixer,4,6958,0,27832.0,5701.17,Cash
+ORD10761,2026-04-09,Customer_039,Telangana,Home & Kitchen,Cookware Set,3,2696,0,8088.0,898.4,Cash
+ORD10732,2026-04-09,Customer_108,Kerala,Electronics,Mobile,2,28211,10,50779.8,12492.61,UPI
+ORD10970,2026-04-11,Customer_086,Kerala,Clothing,Jacket,4,5438,5,20664.4,4847.13,Net Banking
+ORD10555,2026-04-11,Customer_137,Andhra Pradesh,Electronics,Mobile,1,20016,0,20016.0,3365.8,Cash
+ORD10462,2026-04-13,Customer_158,Maharashtra,Electronics,Mobile,3,27848,5,79366.8,17529.82,Debit Card
+ORD10612,2026-04-13,Customer_167,Tamil Nadu,Furniture,Bookshelf,5,8037,10,36166.5,5449.9,Debit Card
+ORD10443,2026-04-14,Customer_197,Andhra Pradesh,Electronics,Headphones,1,5009,0,5009.0,1084.51,Cash
+ORD10223,2026-04-14,Customer_157,Kerala,Furniture,Bookshelf,1,9317,10,8385.3,1878.06,Net Banking
+ORD10774,2026-04-16,Customer_138,Delhi,Home & Kitchen,Cookware Set,1,3596,10,3236.4,730.55,Net Banking
+ORD10421,2026-04-17,Customer_089,Telangana,Furniture,Table,2,15467,5,29387.3,2657.96,UPI
+ORD10192,2026-04-17,Customer_013,Telangana,Clothing,Backpack,5,2078,0,10390.0,1995.94,Credit Card
+ORD10684,2026-04-18,Customer_107,Telangana,Home & Kitchen,Cookware Set,4,2764,0,11056.0,1389.69,UPI
+ORD10697,2026-04-19,Customer_024,Kerala,Clothing,Backpack,1,1467,0,1467.0,188.01,Cash
+ORD10429,2026-04-19,Customer_077,Delhi,Electronics,Keyboard,1,4215,15,3582.75,640.94,Credit Card
+ORD10271,2026-04-22,Customer_197,Andhra Pradesh,Furniture,Sofa,4,27605,0,110420.0,16465.87,Debit Card
+ORD10227,2026-04-22,Customer_006,Telangana,Electronics,Laptop,3,61789,0,185367.0,33836.06,Credit Card
+ORD10234,2026-04-23,Customer_051,Telangana,Home & Kitchen,Dinner Set,2,2846,10,5122.8,1012.78,Debit Card
+ORD10750,2026-04-23,Customer_048,Karnataka,Furniture,Bookshelf,5,11588,0,57940.0,11975.42,Credit Card
+ORD10436,2026-04-23,Customer_074,Karnataka,Home & Kitchen,Mixer,3,3757,15,9580.35,1106.54,Net Banking
+ORD10909,2026-04-23,Customer_192,Telangana,Clothing,Jacket,1,2916,0,2916.0,662.59,Debit Card
+ORD10492,2026-04-24,Customer_189,Telangana,Electronics,Monitor,2,22283,5,42337.7,6145.17,UPI
+ORD10983,2026-04-24,Customer_106,Maharashtra,Home & Kitchen,Bottle,4,966,0,3864.0,639.76,Cash
+ORD10682,2026-04-24,Customer_076,Delhi,Electronics,Mobile,2,49713,20,79540.8,14099.47,Credit Card
+ORD10751,2026-04-24,Customer_115,Maharashtra,Home & Kitchen,Dinner Set,3,2123,5,6050.55,722.91,Debit Card
+ORD10596,2026-04-24,Customer_194,Telangana,Home & Kitchen,Dinner Set,3,3048,0,9144.0,1080.75,UPI
+ORD10643,2026-04-24,Customer_097,Maharashtra,Home & Kitchen,Mixer,5,3738,5,17755.5,3122.51,Debit Card
+ORD10095,2026-04-25,Customer_064,Telangana,Furniture,Bookshelf,4,9416,10,33897.6,7886.41,UPI
+ORD10168,2026-04-25,Customer_178,Tamil Nadu,Clothing,Jacket,4,3331,10,11991.6,2267.08,Debit Card
+ORD10367,2026-04-27,Customer_103,Tamil Nadu,Furniture,Sofa,4,22461,10,80859.6,9681.8,Credit Card
+ORD10933,2026-04-27,Customer_188,Andhra Pradesh,Electronics,Keyboard,3,1669,15,4255.95,509.46,Net Banking
+ORD10677,2026-04-28,Customer_047,Telangana,Home & Kitchen,Mixer,1,3535,0,3535.0,641.53,Credit Card
+ORD10929,2026-04-28,Customer_159,Andhra Pradesh,Furniture,Table,2,11160,20,17856.0,3940.44,Cash
+ORD10497,2026-04-29,Customer_016,Karnataka,Clothing,Jeans,2,2984,0,5968.0,1315.81,Credit Card
+ORD10922,2026-04-29,Customer_036,Andhra Pradesh,Clothing,Backpack,1,3119,0,3119.0,624.06,UPI
+ORD10317,2026-04-30,Customer_067,Andhra Pradesh,Clothing,Shoes,1,4186,5,3976.7,575.02,Credit Card
+ORD10850,2026-05-01,Customer_110,Kerala,Furniture,Office Chair,2,13707,20,21931.2,3639.23,Credit Card
+ORD10674,2026-05-01,Customer_102,Andhra Pradesh,Furniture,Office Chair,1,11846,0,11846.0,2682.92,UPI
+ORD10805,2026-05-01,Customer_040,Karnataka,Furniture,Desk,2,17023,5,32343.7,6532.43,Credit Card
+ORD10648,2026-05-01,Customer_006,Andhra Pradesh,Electronics,Mobile,3,40454,10,109225.8,22386.3,UPI
+ORD10513,2026-05-01,Customer_137,Tamil Nadu,Clothing,Jacket,2,2066,10,3718.8,414.36,Net Banking
+ORD10349,2026-05-02,Customer_091,Kerala,Home & Kitchen,Bottle,2,686,5,1303.4,145.63,Cash
+ORD10116,2026-05-02,Customer_067,Telangana,Home & Kitchen,Air Fryer,5,10144,0,50720.0,4304.65,Credit Card
+ORD10915,2026-05-07,Customer_106,Telangana,Home & Kitchen,Dinner Set,2,4823,10,8681.4,2151.01,Cash
+ORD10809,2026-05-07,Customer_126,Delhi,Furniture,Desk,2,17867,0,35734.0,3880.98,Net Banking
+ORD10768,2026-05-08,Customer_191,Karnataka,Home & Kitchen,Dinner Set,4,1539,5,5848.2,714.95,Net Banking
+ORD10708,2026-05-08,Customer_030,Karnataka,Home & Kitchen,Mixer,1,2697,0,2697.0,425.99,Credit Card
+ORD10030,2026-05-09,Customer_079,Tamil Nadu,Home & Kitchen,Air Fryer,4,6267,5,23814.6,2586.14,Debit Card
+ORD10603,2026-05-09,Customer_050,Karnataka,Home & Kitchen,Mixer,4,5698,0,22792.0,4655.22,Cash
+ORD10990,2026-05-10,Customer_016,Telangana,Home & Kitchen,Mixer,2,4951,20,7921.6,1141.91,UPI
+ORD10911,2026-05-10,Customer_140,Kerala,Clothing,Jacket,4,5106,0,20424.0,4335.36,Cash
+ORD10822,2026-05-10,Customer_025,Maharashtra,Home & Kitchen,Dinner Set,5,3803,0,19015.0,3690.28,UPI
+ORD10070,2026-05-11,Customer_067,Karnataka,Furniture,Sofa,2,41475,10,74655.0,15216.41,UPI
+ORD10345,2026-05-11,Customer_085,Tamil Nadu,Clothing,Jacket,2,4955,15,8423.5,1923.81,Debit Card
+ORD10538,2026-05-12,Customer_017,Karnataka,Clothing,Jeans,1,1903,0,1903.0,436.29,Debit Card
+ORD10647,2026-05-13,Customer_095,Karnataka,Electronics,Laptop,5,68782,15,292323.5,62955.2,Credit Card
+ORD10949,2026-05-13,Customer_109,Maharashtra,Furniture,Sofa,5,33793,10,152068.5,20448.38,Net Banking
+ORD10860,2026-05-13,Customer_197,Tamil Nadu,Clothing,Jeans,5,3787,10,17041.5,3637.69,UPI
+ORD10032,2026-05-13,Customer_004,Karnataka,Electronics,Laptop,5,68551,5,325617.25,56884.32,UPI
+ORD10819,2026-05-17,Customer_181,Andhra Pradesh,Home & Kitchen,Air Fryer,5,4032,5,19152.0,3841.82,UPI
+ORD10864,2026-05-17,Customer_121,Karnataka,Furniture,Table,2,9690,0,19380.0,2930.74,Net Banking
+ORD10645,2026-05-18,Customer_081,Kerala,Home & Kitchen,Cookware Set,3,5465,10,14755.5,2923.68,Credit Card
+ORD10194,2026-05-18,Customer_161,Andhra Pradesh,Clothing,Shoes,2,4024,0,8048.0,1828.81,Credit Card
+ORD10441,2026-05-18,Customer_004,Maharashtra,Electronics,Headphones,4,5340,15,18156.0,3233.35,Credit Card
+ORD10544,2026-05-19,Customer_191,Maharashtra,Furniture,Office Chair,3,11068,0,33204.0,3702.15,Credit Card
+ORD10877,2026-05-20,Customer_153,Delhi,Furniture,Bookshelf,2,11682,0,23364.0,3532.13,Debit Card
+ORD10898,2026-05-21,Customer_102,Telangana,Home & Kitchen,Bottle,1,1445,0,1445.0,172.77,Net Banking
+ORD10469,2026-05-22,Customer_190,Telangana,Electronics,Laptop,2,50498,10,90896.4,10009.16,UPI
+ORD10599,2026-05-23,Customer_157,Kerala,Home & Kitchen,Mixer,5,7243,10,32593.5,8027.7,UPI
+ORD10540,2026-05-24,Customer_164,Delhi,Furniture,Desk,3,12642,0,37926.0,9222.26,Debit Card
+ORD10810,2026-05-24,Customer_008,Andhra Pradesh,Electronics,Monitor,3,11745,0,35235.0,7829.05,UPI
+ORD10154,2026-05-24,Customer_020,Andhra Pradesh,Clothing,Shoes,1,6257,10,5631.3,998.09,Credit Card
+ORD10660,2026-05-24,Customer_156,Delhi,Furniture,Desk,4,13190,20,42208.0,8647.72,Net Banking
+ORD10395,2026-05-25,Customer_153,Delhi,Clothing,Shoes,3,3135,5,8934.75,1316.17,Credit Card
+ORD10880,2026-05-26,Customer_011,Telangana,Electronics,Headphones,1,7707,0,7707.0,1815.39,UPI
+ORD10918,2026-05-26,Customer_098,Andhra Pradesh,Home & Kitchen,Air Fryer,5,10193,5,48416.75,8304.79,Debit Card
+ORD10601,2026-05-26,Customer_018,Andhra Pradesh,Electronics,Mobile,4,19295,10,69462.0,14993.85,Net Banking
+ORD10042,2026-05-27,Customer_106,Maharashtra,Clothing,Backpack,3,2581,15,6581.55,1231.21,Debit Card
+ORD10151,2026-05-27,Customer_111,Delhi,Clothing,Backpack,4,1069,0,4276.0,628.9,Credit Card
+ORD10407,2026-05-28,Customer_131,Telangana,Furniture,Bookshelf,4,5606,0,22424.0,3722.57,Cash
+ORD10985,2026-05-29,Customer_113,Andhra Pradesh,Home & Kitchen,Cookware Set,3,5243,15,13369.65,2750.27,Net Banking
+ORD10991,2026-05-29,Customer_145,Karnataka,Furniture,Office Chair,1,5628,0,5628.0,845.88,Cash
+ORD10133,2026-05-29,Customer_098,Delhi,Electronics,Mobile,4,41516,20,132851.2,20251.92,Net Banking
+ORD10759,2026-05-29,Customer_025,Andhra Pradesh,Electronics,Headphones,2,11860,0,23720.0,5514.64,Credit Card
+ORD10008,2026-05-30,Customer_171,Delhi,Electronics,Headphones,3,7411,0,22233.0,4279.9,UPI
+ORD10657,2026-05-30,Customer_157,Delhi,Clothing,Jeans,4,2504,0,10016.0,812.29,Debit Card
+ORD10202,2026-05-31,Customer_144,Telangana,Home & Kitchen,Bottle,2,960,5,1824.0,409.67,Debit Card
+ORD10675,2026-05-31,Customer_034,Karnataka,Home & Kitchen,Bottle,4,559,5,2124.2,378.34,UPI
+ORD10329,2026-06-01,Customer_198,Kerala,Home & Kitchen,Cookware Set,5,5506,0,27530.0,6861.76,Credit Card
+ORD10718,2026-06-01,Customer_168,Andhra Pradesh,Home & Kitchen,Mixer,5,7501,5,35629.75,4250.05,Cash
+ORD10516,2026-06-01,Customer_061,Delhi,Clothing,Shoes,4,5130,10,18468.0,3875.1,Credit Card
+ORD10016,2026-06-02,Customer_100,Delhi,Electronics,Mobile,4,33038,20,105721.6,15169.77,Cash
+ORD10770,2026-06-03,Customer_147,Maharashtra,Electronics,Laptop,2,53547,5,101739.3,22128.35,Debit Card
+ORD10663,2026-06-03,Customer_158,Andhra Pradesh,Electronics,Laptop,2,60369,0,120738.0,28983.23,Credit Card
+ORD10220,2026-06-04,Customer_074,Maharashtra,Clothing,Jeans,1,2647,0,2647.0,268.44,Debit Card
+ORD10361,2026-06-05,Customer_087,Andhra Pradesh,Home & Kitchen,Dinner Set,2,4033,10,7259.4,1248.86,Cash
+ORD10393,2026-06-05,Customer_140,Telangana,Home & Kitchen,Mixer,1,4541,5,4313.95,588.12,UPI
+ORD10478,2026-06-06,Customer_019,Maharashtra,Home & Kitchen,Bottle,4,640,10,2304.0,501.45,UPI
+ORD10586,2026-06-06,Customer_015,Telangana,Clothing,T-Shirt,5,763,10,3433.5,551.99,Debit Card
+ORD10386,2026-06-06,Customer_169,Kerala,Home & Kitchen,Bottle,3,1495,0,4485.0,632.23,UPI
+ORD10222,2026-06-06,Customer_190,Andhra Pradesh,Clothing,Shoes,5,5159,0,25795.0,5018.48,UPI
+ORD10201,2026-06-06,Customer_026,Andhra Pradesh,Clothing,Backpack,1,2385,0,2385.0,419.57,Credit Card
+ORD10175,2026-06-07,Customer_097,Tamil Nadu,Home & Kitchen,Mixer,2,5012,5,9522.8,1151.21,Cash
+ORD10719,2026-06-07,Customer_092,Tamil Nadu,Home & Kitchen,Mixer,4,6618,10,23824.8,5540.59,Credit Card
+ORD10787,2026-06-07,Customer_123,Kerala,Clothing,T-Shirt,4,1661,5,6311.8,1429.25,UPI
+ORD10362,2026-06-08,Customer_121,Maharashtra,Electronics,Mobile,1,21428,5,20356.6,1926.25,Credit Card
+ORD10161,2026-06-08,Customer_155,Tamil Nadu,Clothing,Shoes,5,6894,0,34470.0,5151.11,Credit Card
+ORD10710,2026-06-09,Customer_103,Maharashtra,Home & Kitchen,Dinner Set,3,4639,0,13917.0,2682.01,Net Banking
+ORD10294,2026-06-09,Customer_060,Tamil Nadu,Furniture,Sofa,3,27743,5,79067.55,10932.22,UPI
+ORD10838,2026-06-09,Customer_136,Kerala,Electronics,Mobile,4,40151,10,144543.6,30619.52,Debit Card
+ORD10230,2026-06-10,Customer_140,Tamil Nadu,Electronics,Mobile,5,36370,20,145480.0,22249.8,Debit Card
+ORD10193,2026-06-10,Customer_156,Kerala,Electronics,Mobile,5,33174,5,157576.5,28084.42,Credit Card
+ORD10028,2026-06-11,Customer_170,Andhra Pradesh,Furniture,Desk,3,12629,10,34098.3,2970.83,Debit Card
+ORD10450,2026-06-12,Customer_079,Andhra Pradesh,Furniture,Desk,4,6785,10,24426.0,2549.83,Net Banking
+ORD10553,2026-06-13,Customer_037,Maharashtra,Electronics,Laptop,4,79631,5,302597.8,30738.05,Credit Card
+ORD10186,2026-06-13,Customer_117,Delhi,Electronics,Keyboard,2,840,10,1512.0,141.84,UPI
+ORD10669,2026-06-13,Customer_027,Telangana,Electronics,Monitor,1,21145,20,16916.0,2524.75,Net Banking
+ORD10570,2026-06-13,Customer_100,Tamil Nadu,Clothing,T-Shirt,5,1872,0,9360.0,1409.85,UPI
+ORD10073,2026-06-13,Customer_029,Tamil Nadu,Electronics,Headphones,1,10346,0,10346.0,2244.29,Cash
+ORD10593,2026-06-14,Customer_115,Karnataka,Electronics,Monitor,3,12363,20,29671.2,3587.66,Credit Card
+ORD10303,2026-06-14,Customer_002,Kerala,Clothing,T-Shirt,3,1773,5,5053.05,1074.12,Cash
+ORD10517,2026-06-14,Customer_166,Telangana,Home & Kitchen,Mixer,1,5711,0,5711.0,965.03,Debit Card
+ORD10277,2026-06-14,Customer_012,Telangana,Electronics,Keyboard,3,2612,5,7444.2,1734.83,Debit Card
+ORD10088,2026-06-15,Customer_163,Telangana,Electronics,Monitor,3,22230,10,60021.0,7936.38,UPI
+ORD10730,2026-06-16,Customer_197,Karnataka,Home & Kitchen,Air Fryer,4,9832,0,39328.0,5891.97,Credit Card
+ORD10507,2026-06-17,Customer_041,Kerala,Home & Kitchen,Dinner Set,3,3211,5,9151.35,2222.41,Net Banking
+ORD10851,2026-06-17,Customer_052,Andhra Pradesh,Clothing,T-Shirt,3,1627,10,4392.9,730.62,UPI
+ORD10961,2026-06-18,Customer_047,Telangana,Electronics,Headphones,5,3468,0,17340.0,4203.67,Debit Card
+ORD10973,2026-06-18,Customer_052,Maharashtra,Electronics,Laptop,2,50722,5,96371.8,10973.6,Debit Card
+ORD10698,2026-06-18,Customer_136,Andhra Pradesh,Furniture,Table,3,11818,15,30135.9,4461.72,Debit Card
+ORD10180,2026-06-19,Customer_026,Delhi,Clothing,T-Shirt,3,1899,20,4557.6,672.19,Net Banking
+ORD10904,2026-06-20,Customer_022,Telangana,Clothing,Backpack,3,3293,15,8397.15,1158.9,Debit Card
+ORD10673,2026-06-20,Customer_024,Delhi,Furniture,Sofa,3,23244,0,69732.0,5846.05,Net Banking
+ORD10920,2026-06-20,Customer_183,Maharashtra,Home & Kitchen,Air Fryer,2,9787,5,18595.3,4198.45,Debit Card
+ORD10917,2026-06-20,Customer_090,Tamil Nadu,Furniture,Table,4,14572,0,58288.0,7126.46,Debit Card
+ORD10889,2026-06-21,Customer_056,Andhra Pradesh,Home & Kitchen,Air Fryer,4,5776,5,21948.8,2200.45,Net Banking
+ORD10108,2026-06-21,Customer_171,Kerala,Home & Kitchen,Dinner Set,1,1935,20,1548.0,184.76,Credit Card
+ORD10045,2026-06-21,Customer_173,Andhra Pradesh,Home & Kitchen,Dinner Set,2,3696,10,6652.8,1133.1,UPI
+ORD10127,2026-06-22,Customer_186,Kerala,Furniture,Bookshelf,4,3948,10,14212.8,2851.15,Cash
+ORD10089,2026-06-22,Customer_055,Telangana,Home & Kitchen,Cookware Set,5,5933,0,29665.0,5129.02,Credit Card
+ORD10943,2026-06-22,Customer_112,Andhra Pradesh,Home & Kitchen,Cookware Set,4,1744,20,5580.8,759.69,Cash
+ORD10433,2026-06-23,Customer_063,Tamil Nadu,Electronics,Keyboard,1,1978,10,1780.2,260.97,UPI
+ORD10921,2026-06-24,Customer_119,Karnataka,Electronics,Laptop,4,73328,5,278646.4,26903.97,UPI
+ORD10882,2026-06-25,Customer_118,Maharashtra,Furniture,Sofa,1,47983,0,47983.0,9893.6,UPI
+ORD10998,2026-06-25,Customer_093,Kerala,Home & Kitchen,Cookware Set,4,4265,0,17060.0,1884.21,Net Banking
+ORD10283,2026-06-26,Customer_176,Maharashtra,Furniture,Bookshelf,5,7492,15,31841.0,2553.3,Debit Card
+ORD10724,2026-06-27,Customer_132,Tamil Nadu,Electronics,Mobile,5,41796,0,208980.0,34483.77,UPI
+ORD10265,2026-06-28,Customer_133,Telangana,Clothing,T-Shirt,2,1391,0,2782.0,459.16,Debit Card
+ORD10327,2026-06-28,Customer_106,Tamil Nadu,Clothing,Shoes,2,4202,0,8404.0,1432.19,UPI
+ORD10375,2026-06-29,Customer_093,Maharashtra,Electronics,Keyboard,2,1174,0,2348.0,432.78,UPI
+ORD10199,2026-06-30,Customer_117,Andhra Pradesh,Electronics,Mobile,2,12778,10,23000.4,3511.53,UPI
+ORD10470,2026-06-30,Customer_033,Delhi,Home & Kitchen,Air Fryer,4,6390,5,24282.0,4923.21,Debit Card
+ORD10006,2026-06-30,Customer_032,Delhi,Home & Kitchen,Dinner Set,3,1778,0,5334.0,982.39,Cash
+ORD10302,2026-06-30,Customer_064,Tamil Nadu,Electronics,Laptop,4,78755,10,283518.0,57814.9,UPI
